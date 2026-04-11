@@ -46,9 +46,10 @@ I'm a B.Tech CSE student passionate about building web applications and automati
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravthakur05&show_icons=true&theme=default&hide_border=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravthakur05&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=gauravthakur05&theme=default&hide_border=true" height="150"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravthakur05&layout=compact&hide_border=true&langs_count=8" height="150"/>
 </p>
 
 ---
