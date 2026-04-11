@@ -1,68 +1,58 @@
-<h1 align="center">Hi 👋, I'm Gaurav Thakur</h1>
-<h3 align="center">
-B.Tech CSE | 🏅 Oracle Certified | ⚙️ DevOps & Cloud Practitioner | ☁️ AWS & Azure | 💻 Web Development | 🔵 C++ | 📊 DSA
-</h3>
+<h1 align="center">Hey, I'm Gaurav Thakur 👋</h1>
 
 <p align="center">
-  A passionate frontend developer from India 🚀  
+  <b>Web Developer &nbsp;·&nbsp; DevOps Enthusiast &nbsp;·&nbsp; Cloud Practitioner</b><br/>
+  B.Tech CSE &nbsp;|&nbsp; Oracle Certified &nbsp;|&nbsp; AWS & Azure &nbsp;|&nbsp; India 🇮🇳
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/megaurav7"><img src="https://img.shields.io/badge/LinkedIn-megaurav7-0077B5?style=flat&logo=linkedin"/></a>
+  <a href="mailto:megaurav402815@gmail.com"><img src="https://img.shields.io/badge/Email-megaurav402815@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/me_gaurav_7"><img src="https://img.shields.io/badge/Instagram-me__gaurav__7-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.geeksforgeeks.org/user/megaurav8zo6/"><img src="https://img.shields.io/badge/GeeksforGeeks-megaurav8zo6-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🔭 Currently Working On  
-🖥️ **CloudOps Lab** — Hands-on with AWS EC2 🟢 | S3 📦 | IAM 🔐 | Azure DevOps ⚙️  
+## About Me
 
-### 🌱 Currently Learning  
-☁️ Cloud Computing (AWS | Azure | DevOps)  
-🔵 C++ & 📊 Data Structures and Algorithms  
+I'm a B.Tech CSE student passionate about building web applications and automating cloud infrastructure. I enjoy working across the full stack — from crafting responsive UIs to deploying containerized apps on AWS and Azure.
 
-### 👯 Open to Collaborate On  
-🧠 **AlgoPark** — Smart Parking Solution using DSA concepts  
-
-### 💬 Ask Me About  
-🔵 C++ (OOP, STL, Problem Solving)  
-📊 Data Structures & Algorithms (Competitive Programming)  
-☁️ Cloud (AWS, Azure, DevOps Tools)  
-🌐 Web (HTML, CSS, JavaScript, React, Node.js)  
-⚙️ Git & GitHub  
-
-### 📫 Contact  
-📧 **megaurav402815@gmail.com**
+- 🔭 Currently building **CloudOps Lab** — hands-on projects with EC2, S3, IAM, and Azure DevOps
+- 🤝 Open to collaborate on **AlgoPark** — a smart parking solution using DSA concepts
+- 🏅 Oracle Certified | AWS & Azure practitioner
 
 ---
 
-<h3 align="center">🌐 Connect With Me</h3>
+## Tech Stack
+
+**Frontend**
+`HTML` `CSS` `JavaScript` `React`
+
+**Backend**
+`Node.js` `Express` `MERN Stack`
+
+**Languages**
+`C++` `Python` `SQL`
+
+**Cloud & DevOps**
+`AWS` `Azure` `Docker` `Git` `Linux` `Azure DevOps`
+
+**Databases**
+`MySQL` `MongoDB`
+
+---
+
+## GitHub Stats
+
 <p align="center">
-<a href="https://linkedin.com/in/megaurav7" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
-</a>
-<a href="https://stackoverflow.com/users/gaurav-thakur" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40" />
-</a>
-<a href="https://instagram.com/me_gaurav_7" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
-</a>
-<a href="https://www.geeksforgeeks.org/user/megaurav8zo6/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=megaurav7&show_icons=true&theme=default&hide_border=true" height="150"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megaurav7&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
 
 ---
 
-<h3 align="center">🛠️ Languages & Tools</h3>
-<p align="center"> 
-<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/></a>
-<a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/></a>
-<a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/></a>
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45"/></a>
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/></a>
-<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/></a>
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/></a>
-<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/></a>
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/></a>
-<a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45"/></a>
-<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/></a>
+<p align="center">
+  <i>Feel free to reach out — always open to interesting projects and conversations!</i>
 </p>
