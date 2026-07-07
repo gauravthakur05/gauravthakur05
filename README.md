@@ -106,7 +106,7 @@ https://portfolioo-self-zeta.vercel.app/
 
 <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker"/>
 
-<img src="https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=for-the-badge&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/Azure-Learning-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/System%20Design-In%20Progress-8B5CF6?style=for-the-badge"/>
 
