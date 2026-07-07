@@ -12,11 +12,9 @@
 Full Stack Developer • Cloud Enthusiast • DevOps Learner • Oracle Certified
 </h3>
 
-<p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&color=38BDF8&lines=Building+Modern+Web+Applications;Learning+AWS+%7C+Azure+%7C+DevOps;DSA+Enthusiast;Always+Learning+Something+New+🚀"/>
 
-</p>
+
 
 ---
 
@@ -60,7 +58,7 @@ Full Stack Developer • Cloud Enthusiast • DevOps Learner • Oracle Certifie
 
 🌐 Portfolio
 
-https://gauravthakur05.github.io/Portfolio/
+https://portfolioo-self-zeta.vercel.app/
 
 ---
 
