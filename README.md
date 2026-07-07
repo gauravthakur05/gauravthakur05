@@ -6,22 +6,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Gaurav%20Thakur&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Cloud%20Enthusiast%20|%20DevOps%20Learner&descAlignY=60"/>
 </p>
 
----
-
-<p align="center">
-
-<a href="https://komarev.com/ghpvc/?username=gauravthakur05">
-<img src="https://komarev.com/ghpvc/?username=gauravthakur05&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6"/>
-</a>
-
-<img src="https://img.shields.io/github/followers/gauravthakur05?logo=github&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/gauravthakur05?style=for-the-badge"/>
-
-</p>
-
----
-
 # 💫 About Me
 
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
