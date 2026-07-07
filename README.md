@@ -6,16 +6,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Gaurav%20Thakur&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Cloud%20Enthusiast%20|%20DevOps%20Learner&descAlignY=60"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Gaurav Thakur</h1>
-
-<h3 align="center">
-Full Stack Developer • Cloud Enthusiast • DevOps Learner • Oracle Certified
-</h3>
-
-
-
-
-
 ---
 
 <p align="center">
