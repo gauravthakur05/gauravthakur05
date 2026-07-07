@@ -199,7 +199,7 @@ Features
 
 <p align="center">
 
-<a href="https://gauravthakur05.github.io/Portfolio/">
+<a href="https://portfolioo-self-zeta.vercel.app/">
 
 <img src="https://img.shields.io/badge/🌍%20Visit%20My%20Portfolio-2563EB?style=for-the-badge"/>
 
