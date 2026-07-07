@@ -67,18 +67,13 @@ fun_fact: I debug my code the same way I debug my life — one console.log at a 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&width=100%"/>
 
-## ☁️ AWS & Cloud Journey
+## 📚 Currently Learning
 
 <div align="center">
-
-| Milestone | Status |
-|---|---|
-| AWS Cloud Practitioner Fundamentals | ✅ Completed |
-| EC2, S3, IAM Hands-on Labs | ✅ In Progress |
-| Azure DevOps Pipelines | ✅ In Progress |
-| Docker & Containerization | ✅ Ongoing |
-| CloudOps Lab (Personal Project) | 🚧 Building |
-
+  <img src="https://img.shields.io/badge/Advanced_React_Patterns-58A6FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS_Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System_Design-2C5364?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </div>
 
 ## 🧠 DSA Progress
@@ -93,18 +88,28 @@ fun_fact: I debug my code the same way I debug my life — one console.log at a 
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/gauravthakur05">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravthakur05&repo=AlgoPark&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF"/>
-</a>
-<a href="https://github.com/gauravthakur05">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravthakur05&repo=CloudOps-Lab&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF"/>
-</a>
+### 🅿️ AlgoPark
+A smart parking solution built around core DSA concepts — efficient slot allocation, real-time availability, and optimized search.
 
-</div>
+`C++` `DSA` `Algorithms`
 
-> 💡 *Pin your real repositories on GitHub — the cards above will auto-populate once the repo names match your actual GitHub repos.*
+</td>
+<td width="50%" valign="top">
+
+### ☁️ CloudOps Lab
+Hands-on cloud infrastructure playground — provisioning and automating EC2, S3, and IAM on AWS, paired with Azure DevOps pipelines.
+
+`AWS` `Azure DevOps` `IAM` `EC2` `S3`
+
+</td>
+</tr>
+</table>
+
+> 💡 Once these repos are public on GitHub, replace the cards above with live pinned-repo widgets — ask and I'll wire them in with the exact repo names.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&width=100%"/>
 
@@ -112,35 +117,24 @@ fun_fact: I debug my code the same way I debug my life — one console.log at a 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gauravthakur05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravthakur05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" width="49%"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=gauravthakur05&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F7B84B&currStreakLabel=58A6FF" width="70%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gauravthakur05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&cache_seconds=1800" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravthakur05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&cache_seconds=1800" width="49%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravthakur05&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F7B84B" width="90%"/>
+<img src="https://streak-stats.demolab.com?user=gauravthakur05&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F7B84B&currStreakLabel=58A6FF" width="70%"/>
 
 </div>
+
+> ⚠️ These cards are rendered live by third-party GitHub API services (github-readme-stats / streak-stats). GitHub occasionally rate-limits them, which can show a temporary "failed to retrieve" state — refreshing the page or waiting a few minutes usually fixes it. If it persists, star & fork [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and self-host it for guaranteed uptime.
 
 ### 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gauravthakur05&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gauravthakur05&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="90%"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&width=100%"/>
-
-## 📚 Currently Learning
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Advanced_React_Patterns-58A6FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AWS_Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/System_Design-2C5364?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-</div>
 
 ## 💬 Quote of the Day
 
