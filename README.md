@@ -294,8 +294,6 @@ Features
 
 </p>
 
-> **⚠️ Important:**  
-> Ye snake animation tabhi work karegi jab tum GitHub Actions se `Platane/snk` workflow setup karoge. Agar setup nahi karna chahte, to is section ko remove kar do.
 
 ---
 
