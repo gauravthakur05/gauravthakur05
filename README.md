@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Hi%20There,%20I'm%20Gaurav%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Cloud%20%26%20DevOps%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Hi%20There,%20I'm%20Gaurav%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Cloud%20%26%20DevOps%20Enthusiast&descAlignY=55&descSize=18" width="100%" alt="header banner"/>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer+%E2%80%A2+Programmer;AWS+Cloud+Practitioner;DevOps+Enthusiast;Always+Learning+Something+New!&font=Fira+Code&center=true&width=500&height=50&color=58A6FF&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
 
@@ -124,18 +124,29 @@ A DSA-driven smart parking solution with intelligent allocation and real-time av
 
 ## 📊 GitHub Analytics
 
+<!--
+NOTE: If these three images show broken/black icons, it's almost always because
+the shared public instances below are rate-limited (very common — not your fault).
+Fastest fix: deploy your own free instance on Vercel and swap only the domain:
+  - stats:         https://github.com/anuraghazra/github-readme-stats#deploy-on-vercel
+  - streak:        https://github.com/DenverCoder1/github-readme-streak-stats
+  - activity graph:https://github.com/Ashutosh00710/github-readme-activity-graph
+Then replace "github-readme-stats.vercel.app" / "streak-stats.demolab.com" /
+"github-readme-activity-graph.vercel.app" below with your-app-name.vercel.app
+-->
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gauravthakur05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravthakur05&layout=compact&theme=tokyonight&hide_border=true" width="41%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gauravthakur05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Gaurav's GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravthakur05&layout=compact&theme=tokyonight&hide_border=true" width="41%" alt="Top languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=gauravthakur05&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=gauravthakur05&theme=tokyonight&hide_border=true" width="70%" alt="GitHub streak stats"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravthakur05&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravthakur05&theme=tokyo-night&hide_border=true" width="95%" alt="Contribution activity graph"/>
 
 </div>
 
@@ -143,9 +154,15 @@ A DSA-driven smart parking solution with intelligent allocation and real-time av
 
 ## 🐍 Contribution Snake
 
+<!--
+NOTE: This image only appears once you add the GitHub Action below to THIS repo
+(gauravthakur05/gauravthakur05) and run it at least once — it isn't a live
+rendering service like the ones above. See snake.yml provided alongside this file.
+-->
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<img src="https://raw.githubusercontent.com/gauravthakur05/gauravthakur05/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution snake"/>
 
 </div>
 
