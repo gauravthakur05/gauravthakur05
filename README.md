@@ -1,206 +1,361 @@
-<div align="center">
+<!-- =========================
+        PREMIUM HEADER
+========================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Hi%20There,%20I'm%20Gaurav%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Cloud%20%26%20DevOps%20Enthusiast&descAlignY=55&descSize=18" width="100%" alt="header banner"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Gaurav%20Thakur&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Cloud%20Enthusiast%20|%20DevOps%20Learner&descAlignY=60"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer+%E2%80%A2+Programmer;AWS+Cloud+Practitioner;DevOps+Enthusiast;Always+Learning+Something+New!&font=Fira+Code&center=true&width=500&height=50&color=58A6FF&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
+# 💫 About Me
 
-<br/>
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-4B32C3?style=for-the-badge)](https://gauravthakur05.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravthakur05/)
-[![Gmail](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:megaurav402815@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/me_gaurav_7)
+🎓 B.Tech Computer Science Student
 
-</div>
+💻 Passionate Full Stack Developer
 
-<br/>
+☁️ Learning AWS & Azure Cloud
 
-## 💫 About Me
+🐳 Exploring Docker & DevOps
 
-```yaml
-name: Gaurav Thakur
-role: Full Stack Developer | Cloud & DevOps Enthusiast
-location: Jalandhar, India
-education: B.Tech Computer Science Student
-certifications: Oracle Certified
-current_focus:
-  - Building real-world full stack projects
-  - AWS & Azure Cloud fundamentals
-  - Docker & DevOps workflows
-  - Data Structures & Algorithms
-fun_fact: Consistency is my superpower 🚀
-```
+📈 Solving DSA Problems
 
-<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="coding gif"/>
+🚀 Building Real World Projects
 
-- 🎓 B.Tech Computer Science Student
-- 💻 Passionate Full Stack Developer
-- ☁️ Learning AWS & Azure Cloud
-- 🐳 Exploring Docker & DevOps
-- 📈 Actively solving DSA problems
-- 🏆 Oracle Certified
-- 🌱 Always leveling up my skill set
-- 📫 **megaurav402815@gmail.com**
+🏆 Oracle Certified
 
-<br clear="right"/>
+🌱 Always Learning New Technologies
+
+📫 Email:
+
+**megaurav402815@gmail.com**
+
+🌐 Portfolio
+
+https://portfolioo-self-zeta.vercel.app/
 
 ---
 
-## 🛠️ Tech Stack
+# 🌍 Connect With Me
 
-<div align="center">
+<p align="center">
 
-![Languages](https://skillicons.dev/icons?i=cpp,python,java,html,css,js,react,nodejs,express,mongodb,mysql&perline=11)
+<a href="https://linkedin.com/in/megaurav7">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<br/>
+<a href="https://portfolioo-self-zeta.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-![Cloud & Tools](https://skillicons.dev/icons?i=aws,azure,docker,git,github,linux,vscode,postman&perline=8)
+<a href="mailto:megaurav402815@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-</div>
+<a href="https://instagram.com/me_gaurav_7">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/megaurav8zo6/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</p>
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,react,nodejs,express,mongodb,mysql,git,github,docker,linux,aws,azure,vscode,postman&perline=10"/>
+
+</p>
 
 ---
 
-## ☁️ AWS Learning Journey
+# 🚀 Currently Learning
 
-<div align="center">
+<p align="center">
 
-| Service | Status | Service | Status |
-|---|:---:|---|:---:|
-| IAM | ✅ Done | Route Tables | 🔄 In Progress |
-| EC2 | ✅ Done | Security Groups | 🔄 In Progress |
-| S3 | ✅ Done | Load Balancer | 🔄 In Progress |
-| VPC | ✅ Done | Auto Scaling | 🔄 In Progress |
-| | | CloudFormation | 🎯 Planned |
+<img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws"/>
 
-</div>
+<img src="https://img.shields.io/badge/Azure-DevOps-0078D4?style=for-the-badge&logo=azuredevops"/>
+
+<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker"/>
+
+<img src="https://img.shields.io/badge/Azure-Learning-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/System%20Design-In%20Progress-8B5CF6?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## 🧠 DSA Progress
+# ☁️ AWS Journey
+
+| Service | Status |
+|---------|--------|
+| IAM | ✅ |
+| EC2 | ✅ |
+| S3 | ✅ |
+| VPC | ✅ |
+| Route Tables | 🔄 |
+| Security Groups | 🔄 |
+| Load Balancer | 🔄 |
+| Auto Scaling | 🔄 |
+| CloudFormation | 🎯 |
+
+---
+
+# 🧠 DSA Progress
 
 ```text
-Arrays          ████████████████████ 100%  ✅
-Strings         ████████████████████ 100%  ✅
-Linked List     ████████████████████ 100%  ✅
-Stack           ████████████████████ 100%  ✅
-Queue           ████████████████████ 100%  ✅
-Trees           ████████████████████ 100%  ✅
-Graph           ██████████░░░░░░░░░░  50%  🔄
-Dynamic Prog.   ██████░░░░░░░░░░░░░░  30%  🔄
+██████████████░░░░░░░░░░░░░░ 55%
 
-Overall: ██████████████░░░░░░░░░░░░░░ 55%
+✅ Arrays
+✅ Strings
+✅ Linked List
+✅ Stack
+✅ Queue
+✅ Trees
+🔄 Graph
+🔄 Dynamic Programming
 ```
-
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
+# 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
 ### ☁️ CloudOps Lab
-Hands-on AWS projects covering EC2, IAM, S3, VPC, Linux, Docker, and Azure DevOps pipelines.
 
-`AWS` `Docker` `Linux`
+Hands-on AWS projects covering:
+
+- EC2
+- IAM
+- S3
+- VPC
+- Linux
+- Docker
+- Azure DevOps
+
+**Tech Stack**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </td>
+
 <td width="50%">
 
-### 🚗 AlgoPark — Smart Parking System
-A DSA-driven smart parking solution with intelligent allocation and real-time availability tracking.
+### 🚗 AlgoPark
 
-`C++` `DSA` `Real-time`
+Smart Parking Solution
+
+Features
+
+- DSA Based
+- Smart Allocation
+- Efficient Parking
+- Real-time Concept
+
+**Tech Stack**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
 
 </td>
 </tr>
 </table>
 
-</div>
+---
+
+# 🌐 Portfolio
+
+<p align="center">
+
+<a href="https://portfolioo-self-zeta.vercel.app/">
+
+<img src="https://img.shields.io/badge/🌍%20Visit%20My%20Portfolio-2563EB?style=for-the-badge"/>
+
+</a>
+
+</p>
 
 ---
 
-## 📊 GitHub Analytics
 
-<!--
-NOTE: If these three images show broken/black icons, it's almost always because
-the shared public instances below are rate-limited (very common — not your fault).
-Fastest fix: deploy your own free instance on Vercel and swap only the domain:
-  - stats:         https://github.com/anuraghazra/github-readme-stats#deploy-on-vercel
-  - streak:        https://github.com/DenverCoder1/github-readme-streak-stats
-  - activity graph:https://github.com/Ashutosh00710/github-readme-activity-graph
-Then replace "github-readme-stats.vercel.app" / "streak-stats.demolab.com" /
-"github-readme-activity-graph.vercel.app" below with your-app-name.vercel.app
--->
+# 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gauravthakur05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Gaurav's GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravthakur05&layout=compact&theme=tokyonight&hide_border=true" width="41%" alt="Top languages"/>
+<img src="https://streak-stats.demolab.com?user=gauravthakur05&theme=tokyonight&hide_border=true"/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=gauravthakur05&theme=tokyonight&hide_border=true" width="70%" alt="GitHub streak stats"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravthakur05&theme=tokyo-night&hide_border=true" width="95%" alt="Contribution activity graph"/>
-
-</div>
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+# 📈 Contribution Graph
 
-<!--
-NOTE: This image only appears once you add the GitHub Action below to THIS repo
-(gauravthakur05/gauravthakur05) and run it at least once — it isn't a live
-rendering service like the ones above. See snake.yml provided alongside this file.
--->
+<p align="center">
 
-<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravthakur05&theme=tokyo-night&hide_border=true"/>
 
-<img src="https://raw.githubusercontent.com/gauravthakur05/gauravthakur05/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution snake"/>
-
-</div>
+</p>
 
 ---
 
-## 🎯 2026 Goals
+# 📊 Profile Summary
 
-- 🚀 Ship production-ready MERN applications
-- ☁️ Earn an official AWS certification
-- ⚙️ Master Docker & CI/CD pipelines
-- 🌍 Contribute to open source projects
-- 📚 Solve 500+ DSA problems
-- 💼 Land a Software Engineering internship
+<p align="center">
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gauravthakur05&theme=tokyonight"/>
 
-## 🏅 Certifications
+</p>
 
-<div align="center">
+<p align="center">
 
-![Oracle](https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle)
-![AWS](https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-Learning-0078D4?style=for-the-badge&logo=microsoftazure)
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gauravthakur05&theme=tokyonight"/>
 
-</div>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gauravthakur05&theme=tokyonight"/>
+
+</p>
 
 ---
 
-<div align="center">
+# ⚡ Coding Activity
 
-### 💬 "First, solve the problem. Then, write the code." — *John Johnson*
+<p align="center">
 
-<br/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gauravthakur05&theme=tokyonight"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=gauravthakur05&label=Profile%20Views&color=0e75b6&style=flat)
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gauravthakur05&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# 📌 Current Focus
+
+```text
+🚀 Full Stack Development
+☁️ AWS Cloud
+🐳 Docker
+⚙️ DevOps
+📚 DSA
+💡 Open Source
+```
+
+---
+# 🎯 2026 Goals
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Complete-500%2B%20DSA%20Problems-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AWS-Certified-232F3E?style=for-the-badge&logo=amazonaws"/>
+
+<img src="https://img.shields.io/badge/Azure-Certification-0078D4?style=for-the-badge&logo=microsoftazure"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github"/>
+
+</p>
+
+- 🚀 Build Production Ready MERN Applications
+- ☁️ Become AWS Certified
+- ⚙️ Master Docker & CI/CD
+- 🌍 Contribute to Open Source
+- 📚 Solve 500+ DSA Problems
+- 💼 Secure a Software Engineering Internship
+
+---
+
+# 🏅 Certifications
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle"/>
+
+<img src="https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazonaws"/>
+
+<img src="https://img.shields.io/badge/Azure-Learning-0078D4?style=for-the-badge&logo=microsoftazure"/>
+
+</p>
+
+---
+
+# 📈 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+
+---
+
+# 💬 Developer Quote
+
+<p align="center">
+
+> **"First, solve the problem. Then, write the code."**  
+> — *John Johnson*
+
+</p>
+
+---
+
+# 🎉 Fun Facts
+
+- 💻 I enjoy turning ideas into real applications.
+- ☁️ Cloud Computing fascinates me.
+- 📚 I love learning new technologies every week.
+- 🚀 Consistency is my superpower.
+- 🎵 Coding with music is my favorite combo.
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:megaurav402815@gmail.com">
+<img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/megaurav7">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://gauravthakur05.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ❤️ Thanks for Visiting
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=gauravthakur05&label=Visitors&color=0e75b6&style=flat"/>
+
+</p>
+
+<p align="center">
 
 ### ⭐ If you like my work, consider following me and starring my repositories!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24,30&section=footer"/>
+</p>
 
-</div>
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
+
+</p>
