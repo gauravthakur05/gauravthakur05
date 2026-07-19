@@ -1,252 +1,221 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Gaurav%20Thakur&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Enthusiast%20%7C%20DevOps%20Learner&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Hi%20there,%20I'm%20Gaurav%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Cloud%20Enthusiast%20•%20DevOps%20Learner&descAlignY=58&descSize=17" />
+
+<br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=B.Tech+Computer+Science+Student;Full+Stack+Developer;Learning+AWS+%26+Azure+Cloud;Exploring+Docker+%26+DevOps;Solving+DSA+Problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=B.Tech+Computer+Science+Student;Full+Stack+Developer;Learning+AWS+%26+Azure+Cloud;Exploring+Docker+%26+DevOps;Solving+DSA+Problems+Daily" alt="Typing SVG" />
 </a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-7C3AED?style=for-the-badge&labelColor=161B22" alt="B.Tech Computer Science" />
+<img src="https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=161B22" alt="Oracle Certified" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-7C3AED?style=flat-square&labelColor=1a1a2e" alt="B.Tech Computer Science" />
-<img src="https://img.shields.io/badge/Oracle-Certified-7C3AED?style=flat-square&logo=oracle&logoColor=white&labelColor=1a1a2e" alt="Oracle Certified" />
+<a href="https://portfolioo-self-zeta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=161B22" /></a>
+<a href="https://linkedin.com/in/megaurav7"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" /></a>
+<a href="mailto:megaurav402815@gmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" /></a>
+<a href="https://github.com/gauravthakur05"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" /></a>
 
 <br/><br/>
 
-<a href="https://portfolioo-self-zeta.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" alt="Portfolio" />
-</a>
-<a href="https://linkedin.com/in/megaurav7">
-  <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn" />
-</a>
-<a href="mailto:megaurav402815@gmail.com">
-  <img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email" />
-</a>
-<a href="https://github.com/gauravthakur05">
-  <img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="GitHub" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=gauravthakur05&color=8b5cf6&style=flat-square&label=Profile+Views" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/gauravthakur05?color=7c3aed&style=flat-square&label=Followers&labelColor=1a1a2e" alt="GitHub Followers" />
-<img src="https://img.shields.io/github/stars/gauravthakur05?affiliations=OWNER&color=6d28d9&style=flat-square&label=Stars&labelColor=1a1a2e" alt="GitHub Stars" />
+<img src="https://komarev.com/ghpvc/?username=gauravthakur05&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/gauravthakur05?color=7c3aed&style=for-the-badge&label=FOLLOWERS&labelColor=161B22" alt="Followers" />
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
-I'm a **B.Tech Computer Science student** and **Full Stack Developer** with a growing interest in **Cloud Computing** and **DevOps**. I enjoy building practical applications, exploring cloud technologies, and strengthening my problem-solving skills through Data Structures and Algorithms.
+## 👨‍💻&nbsp; About Me
 
-* 💻 Building **Full Stack Web Applications**
-* ☁️ Learning **AWS & Azure Cloud**
-* 🐳 Exploring **Docker & DevOps**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🚀 Building **real-world projects**
-* 🏆 **Oracle Certified**
-* 🌱 Continuously learning new technologies
-* 💼 Open to **Software Engineering Internships & Opportunities**
+<img align="right" width="260" src="https://raw.githubusercontent.com/aambrozkiewicz/aambrozkiewicz/master/gopher.gif" />
 
----
+I'm a **B.Tech Computer Science student** and a **Full Stack Developer** with a growing focus on **Cloud Computing** and **DevOps**. I like turning ideas into working applications, learning how large systems run in the cloud, and sharpening my problem-solving instincts one DSA problem at a time.
 
-## 🛠️ Tech Stack
+```
+const gaurav = {
+    role: "Full Stack Developer",
+    education: "B.Tech, Computer Science",
+    currentlyLearning: ["AWS", "Azure", "Docker", "System Design"],
+    certified: "Oracle",
+    solvingDaily: "Data Structures & Algorithms",
+    openTo: "Software Engineering Internships"
+};
+```
+
+<br clear="right"/>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
+
+## 🛠️&nbsp; Tech Stack
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,python,java&theme=dark" alt="C++, Python, Java" />
-
-<br/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react&theme=dark" alt="HTML, CSS, JavaScript, React" />
-
-<br/>
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Node.js, Express, MongoDB, MySQL" />
-
-<br/>
-
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,linux&theme=dark" alt="AWS, Azure, Docker, Linux" />
-
-<br/>
-
-### Developer Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, VS Code, Postman" />
+<table>
+<tr>
+<td align="center" width="20%"><b>Languages</b></td>
+<td align="center" width="80%">
+<img src="https://skillicons.dev/icons?i=cpp,python,java&theme=dark" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>Backend &amp; DB</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>Cloud &amp; DevOps</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,linux&theme=dark" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>Tools</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
-## 🚀 Featured Projects
+## 🚀&nbsp; Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### ☁️ CloudOps Lab
 
-> Hands-on cloud infrastructure and DevOps lab focused on building practical experience with AWS services and modern development workflows.
+Hands-on cloud infrastructure lab built around core AWS services and DevOps workflows.
 
-| Category         | Technologies      |
-| :--------------- | :---------------- |
-| **Cloud**        | AWS, Azure        |
-| **AWS Services** | EC2, IAM, S3, VPC |
-| **DevOps**       | Docker            |
-| **Environment**  | Linux             |
+`AWS` `Docker` `Linux` `Azure DevOps`
 
----
+**Focus:** EC2 · IAM · S3 · VPC
 
-### 🚗 AlgoPark — Smart Parking Solution
+</td>
+<td width="50%" valign="top">
 
-> A C++ and DSA-based parking management system designed to efficiently manage parking spaces and vehicle allocation.
+### 🚗 AlgoPark
 
-| Category     | Details                               |
-| :----------- | :------------------------------------ |
-| **Language** | C++                                   |
-| **Concepts** | Data Structures & Algorithms          |
-| **Focus**    | Parking Management & Smart Allocation |
+A DSA-based smart parking allocation system with real-time, efficient space assignment logic.
 
----
+`C++` `Data Structures & Algorithms`
 
-## 📜 Certifications & Learning
+**Focus:** Smart Allocation · Efficient Parking
 
-<div align="center">
+</td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Certified" />
-<img src="https://img.shields.io/badge/AWS-Cloud%20Learning-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS Cloud" />
-<img src="https://img.shields.io/badge/Microsoft%20Azure-Cloud%20Learning-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
-</div>
-
----
-
-## 💻 Coding Profiles
+## 📜&nbsp; Certifications
 
 <div align="center">
 
-<a href="https://leetcode.com/u/gauravthakur98/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/megaurav8zo6/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile" />
-</a>
+<img src="https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-Cloud%20Learning-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Microsoft%20Azure-Cloud%20Learning-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
-## 📊 GitHub Analytics
+## 💻&nbsp; Coding Profiles
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gauravthakur05&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Gaurav's GitHub Stats" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravthakur05&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Gaurav's Top Languages" />
+<a href="https://leetcode.com/u/gauravthakur98/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://www.geeksforgeeks.org/user/megaurav8zo6/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 
 </div>
 
-<br/>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
+
+## 📊&nbsp; GitHub Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=gauravthakur05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<table>
+<tr>
+<td><img width="100%" src="https://github-readme-stats.vercel.app/api?username=gauravthakur05&show_icons=true&hide_border=true&theme=tokyonight" /></td>
+<td><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravthakur05&layout=compact&hide_border=true&theme=tokyonight" /></td>
+</tr>
+</table>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=gauravthakur05&theme=tokyonight&hide_border=true" />
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
-## 🏆 GitHub Trophies
+## 🏆&nbsp; GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gauravthakur05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=gauravthakur05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
-## 📈 Contribution Activity
+## 📈&nbsp; Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravthakur05&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gauravthakur05&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
-## 🎯 Current Focus
+## 🐍&nbsp; Contribution Snake
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/gauravthakur05/gauravthakur05/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+<sub align="center">⚙️ Requires a small GitHub Actions workflow in the profile repo to auto-generate — ask if you'd like it set up.</sub>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
+
+## 🎯&nbsp; Current Focus
 
 ```yaml
-current_focus:
-  development:
-    - Full Stack Development
-    - MERN Stack
-
-  cloud:
-    - AWS Cloud
-    - Microsoft Azure
-
-  devops:
-    - Docker
-    - Linux
-    - CI/CD Fundamentals
-
-  problem_solving:
-    - Data Structures & Algorithms
-    - Graphs
-    - Dynamic Programming
-
-  building:
-    - CloudOps Lab
-    - AlgoPark
-    - Full Stack Projects
-
-  open_to:
-    - Software Engineering Internships
-    - Full Stack Development Opportunities
+learning:      [AWS, Azure, Docker, System Design]
+building:      [CloudOps Lab, AlgoPark, Full Stack Projects]
+solving:       [Data Structures & Algorithms — Graphs, DP]
+open_to:       [Software Engineering Internships]
 ```
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
-## 🤝 Connect With Me
+## 🤝&nbsp; Connect With Me
 
 <div align="center">
 
-<a href="mailto:megaurav402815@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-
-<a href="https://linkedin.com/in/megaurav7">
-  <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://github.com/gauravthakur05">
-  <img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<a href="https://portfolioo-self-zeta.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-
-<a href="https://instagram.com/me_gaurav_7">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/megaurav8zo6/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-</a>
-
-<a href="https://leetcode.com/u/gauravthakur98/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-</a>
+<a href="mailto:megaurav402815@gmail.com"><img src="https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/megaurav7"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/gauravthakur05"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://portfolioo-self-zeta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://instagram.com/me_gaurav_7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 </div>
 
@@ -254,12 +223,10 @@ current_focus:
 
 <div align="center">
 
-### 💡 Code. Build. Learn. Repeat.
-
-<i>"First, solve the problem. Then, write the code."</i>
+<i>"First, solve the problem. Then, write the code." — John Johnson</i>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" />
 
 </div>
