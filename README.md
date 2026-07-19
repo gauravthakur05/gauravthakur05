@@ -1,45 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Gaurav%20Thakur&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Enthusiast%20%7C%20DevOps%20Learner&descAlignY=58&descSize=18" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Gaurav%20Thakur&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Enthusiast%20%7C%20DevOps%20Learner&descAlignY=58&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=B.Tech+Computer+Science+Student;Full+Stack+Developer;Learning+AWS+%26+Azure+Cloud;Exploring+Docker+%26+DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=B.Tech+Computer+Science+Student;Full+Stack+Developer;Learning+AWS+%26+Azure+Cloud;Exploring+Docker+%26+DevOps;Solving+DSA+Problems" alt="Typing SVG" />
 </a>
-
-<br/>
-
-🎓 ![Academic](https://img.shields.io/badge/B.Tech-Computer_Science-7C3AED?style=flat-square&labelColor=1a1a2e) &nbsp; 🏆 ![Certification](https://img.shields.io/badge/Oracle-Certified-7C3AED?style=flat-square&labelColor=1a1a2e)
-
-<br/>
-
-<a href="https://portfolioo-self-zeta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://linkedin.com/in/megaurav7"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="mailto:megaurav402815@gmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://github.com/gauravthakur05"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=gauravthakur05&color=8b5cf6&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/gauravthakur05?color=7c3aed&style=flat-square&label=Followers&labelColor=1a1a2e)
-![Stars](https://img.shields.io/github/stars/gauravthakur05?color=6d28d9&style=flat-square&label=Stars&labelColor=1a1a2e)
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-7C3AED?style=flat-square&labelColor=1a1a2e" alt="B.Tech Computer Science" />
+<img src="https://img.shields.io/badge/Oracle-Certified-7C3AED?style=flat-square&logo=oracle&logoColor=white&labelColor=1a1a2e" alt="Oracle Certified" />
+
+<br/><br/>
+
+<a href="https://portfolioo-self-zeta.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" alt="Portfolio" />
+</a>
+<a href="https://linkedin.com/in/megaurav7">
+  <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn" />
+</a>
+<a href="mailto:megaurav402815@gmail.com">
+  <img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email" />
+</a>
+<a href="https://github.com/gauravthakur05">
+  <img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=gauravthakur05&color=8b5cf6&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/gauravthakur05?color=7c3aed&style=flat-square&label=Followers&labelColor=1a1a2e" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/gauravthakur05?affiliations=OWNER&color=6d28d9&style=flat-square&label=Stars&labelColor=1a1a2e" alt="GitHub Stars" />
 
 </div>
-
-<br/>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **B.Tech Computer Science student** and a passionate **Full Stack Developer** with a growing interest in **cloud computing** and **DevOps**. I'm currently learning **AWS & Azure Cloud**, exploring **Docker** and DevOps workflows, and consistently sharpening my problem-solving skills through **DSA practice**. I enjoy building real-world projects and staying up to date with new technologies.
+I'm a **B.Tech Computer Science student** and **Full Stack Developer** with a growing interest in **Cloud Computing** and **DevOps**. I enjoy building practical applications, exploring cloud technologies, and strengthening my problem-solving skills through Data Structures and Algorithms.
 
-- ☁️ Learning **AWS & Azure Cloud**
-- 🐳 Exploring **Docker & DevOps**
-- 📈 Solving **DSA problems**
-- 🚀 Building **real-world projects**
-- 🏆 **Oracle Certified**
-- 🌱 Always learning new technologies
-- 💼 **Open To:** Software Engineering Internships
+* 💻 Building **Full Stack Web Applications**
+* ☁️ Learning **AWS & Azure Cloud**
+* 🐳 Exploring **Docker & DevOps**
+* 🧠 Practicing **Data Structures & Algorithms**
+* 🚀 Building **real-world projects**
+* 🏆 **Oracle Certified**
+* 🌱 Continuously learning new technologies
+* 💼 Open to **Software Engineering Internships & Opportunities**
 
 ---
 
@@ -47,21 +55,33 @@ I'm a **B.Tech Computer Science student** and a passionate **Full Stack Develope
 
 <div align="center">
 
-**Languages**
+### Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java&theme=dark" alt="C++, Python, Java" />
 
-**Frontend**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+### Frontend
 
-**Backend & Databases**
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react&theme=dark" alt="HTML, CSS, JavaScript, React" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+<br/>
 
-**Cloud, DevOps & Tooling**
+### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,azure,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Node.js, Express, MongoDB, MySQL" />
+
+<br/>
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,linux&theme=dark" alt="AWS, Azure, Docker, Linux" />
+
+<br/>
+
+### Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, VS Code, Postman" />
 
 </div>
 
@@ -69,53 +89,40 @@ I'm a **B.Tech Computer Science student** and a passionate **Full Stack Develope
 
 ## 🚀 Featured Projects
 
-<details>
-<summary><b>☁️ CloudOps Lab</b></summary>
-<br/>
+### ☁️ CloudOps Lab
 
-Hands-on AWS and cloud infrastructure projects covering core services and DevOps tooling.
+> Hands-on cloud infrastructure and DevOps lab focused on building practical experience with AWS services and modern development workflows.
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | AWS, Docker, Linux |
-| **Scope** | EC2, IAM, S3, VPC, Linux, Docker, Azure DevOps |
-| **Repository** | Not specified in profile |
-
-A hands-on exploration of core AWS services and DevOps practices, built to gain practical experience with cloud infrastructure fundamentals.
-
-</details>
-
-<details>
-<summary><b>🚗 AlgoPark — Smart Parking Solution</b></summary>
-<br/>
-
-A DSA-based smart parking allocation system.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | C++ |
-| **Features** | DSA-based logic, smart allocation, efficient parking, real-time concept |
-| **Repository** | Not specified in profile |
-
-Applies data structures and algorithms to model an efficient, real-time smart parking allocation system.
-
-</details>
+| Category         | Technologies      |
+| :--------------- | :---------------- |
+| **Cloud**        | AWS, Azure        |
+| **AWS Services** | EC2, IAM, S3, VPC |
+| **DevOps**       | Docker            |
+| **Environment**  | Linux             |
 
 ---
 
-## 📜 Certifications
+### 🚗 AlgoPark — Smart Parking Solution
 
-**Oracle**
+> A C++ and DSA-based parking management system designed to efficiently manage parking spaces and vehicle allocation.
 
-![Oracle Certified](https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+| Category     | Details                               |
+| :----------- | :------------------------------------ |
+| **Language** | C++                                   |
+| **Concepts** | Data Structures & Algorithms          |
+| **Focus**    | Parking Management & Smart Allocation |
 
-**AWS**
+---
 
-![AWS Learning](https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+## 📜 Certifications & Learning
 
-**Azure**
+<div align="center">
 
-![Azure Learning](https://img.shields.io/badge/Azure-Learning-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<img src="https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Certified" />
+<img src="https://img.shields.io/badge/AWS-Cloud%20Learning-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS Cloud" />
+<img src="https://img.shields.io/badge/Microsoft%20Azure-Cloud%20Learning-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+
+</div>
 
 ---
 
@@ -123,7 +130,13 @@ Applies data structures and algorithms to model an efficient, real-time smart pa
 
 <div align="center">
 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/megaurav8zo6/)
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/megaurav8zo6/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile" />
+</a>
 
 </div>
 
@@ -133,12 +146,17 @@ Applies data structures and algorithms to model an efficient, real-time smart pa
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gauravthakur05&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=gauravthakur05&theme=radical&hide_border=true&background=0d1117&stroke=A78BFA&ring=8B5CF6&fire=7C3AED&currStreakLabel=A78BFA" width="49%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gauravthakur05&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Gaurav's GitHub Stats" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravthakur05&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Gaurav's Top Languages" />
+
+</div>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravthakur05&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=gauravthakur05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -148,7 +166,7 @@ Applies data structures and algorithms to model an efficient, real-time smart pa
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gauravthakur05&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=gauravthakur05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -158,17 +176,7 @@ Applies data structures and algorithms to model an efficient, real-time smart pa
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravthakur05&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=7C3AED" width="100%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravthakur05&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 
 </div>
 
@@ -178,45 +186,80 @@ Applies data structures and algorithms to model an efficient, real-time smart pa
 
 ```yaml
 current_focus:
-  learning:
+  development:
+    - Full Stack Development
+    - MERN Stack
+
+  cloud:
     - AWS Cloud
-    - Azure DevOps
-    - Docker & Containers
-    - System Design
+    - Microsoft Azure
+
+  devops:
+    - Docker
+    - Linux
+    - CI/CD Fundamentals
+
+  problem_solving:
+    - Data Structures & Algorithms
+    - Graphs
+    - Dynamic Programming
+
   building:
-    - CloudOps Lab (AWS hands-on projects)
-    - AlgoPark (DSA-based smart parking system)
-    - Real-world full stack projects
-  exploring:
-    - DevOps workflows
-    - Data Structures & Algorithms (currently: Graph, Dynamic Programming)
+    - CloudOps Lab
+    - AlgoPark
+    - Full Stack Projects
+
   open_to:
     - Software Engineering Internships
+    - Full Stack Development Opportunities
 ```
 
 ---
 
-## 📬 Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:megaurav402815@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/megaurav7)
-[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gauravthakur05)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolioo-self-zeta.vercel.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/me_gaurav_7)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/megaurav8zo6/)
+<a href="mailto:megaurav402815@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<a href="https://linkedin.com/in/megaurav7">
+  <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://github.com/gauravthakur05">
+  <img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://portfolioo-self-zeta.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
+<a href="https://instagram.com/me_gaurav_7">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/megaurav8zo6/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+</a>
+
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+</a>
 
 </div>
 
-<sub>An additional portfolio link was also found in the old profile: <a href="https://gauravthakur05.github.io/Portfolio/">gauravthakur05.github.io/Portfolio</a></sub>
-
----
+<br/>
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code." — John Johnson*
+### 💡 Code. Build. Learn. Repeat.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
+<i>"First, solve the problem. Then, write the code."</i>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
 </div>
