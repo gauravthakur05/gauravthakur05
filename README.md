@@ -8,8 +8,7 @@
 
 <br/>
 
-![Academic](https://img.shields.io/badge/🎓_B.Tech-Computer_Science-7C3AED?style=flat-square&labelColor=1a1a2e)
-![Certification](https://img.shields.io/badge/🏆_Oracle-Certified-7C3AED?style=flat-square&labelColor=1a1a2e)
+🎓 ![Academic](https://img.shields.io/badge/B.Tech-Computer_Science-7C3AED?style=flat-square&labelColor=1a1a2e) &nbsp; 🏆 ![Certification](https://img.shields.io/badge/Oracle-Certified-7C3AED?style=flat-square&labelColor=1a1a2e)
 
 <br/>
 
@@ -135,7 +134,7 @@ Applies data structures and algorithms to model an efficient, real-time smart pa
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=gauravthakur05&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravthakur05&theme=radical&hide_border=true&background=0d1117&stroke=A78BFA&ring=8B5CF6&fire=7C3AED&currStreakLabel=A78BFA" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=gauravthakur05&theme=radical&hide_border=true&background=0d1117&stroke=A78BFA&ring=8B5CF6&fire=7C3AED&currStreakLabel=A78BFA" width="49%"/>
 
 <br/>
 
