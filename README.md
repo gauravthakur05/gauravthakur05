@@ -129,6 +129,27 @@ https://portfolioo-self-zeta.vercel.app/
 <tr>
 <td width="50%">
 
+### 🔗 URL Shortener
+
+A modern URL shortening application that converts long URLs into short and shareable links.
+
+Features
+
+- Shorten Long URLs
+- Fast URL Redirection
+- Simple & Clean Interface
+- Full Stack Application
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+<td width="50%">
+
 ### ☁️ CloudOps Lab
 
 Hands-on AWS projects covering:
