@@ -135,15 +135,15 @@ I enjoy turning ideas into **real-world projects**, solving **DSA problems**, an
 
 | Service         | Status |
 | --------------- | ------ |
-| IAM             | ✅      |
-| EC2             | ✅      |
-| S3              | ✅      |
-| VPC             | ✅      |
-| Route Tables    | 🔄     |
-| Security Groups | 🔄     |
-| Load Balancer   | 🔄     |
-| Auto Scaling    | 🔄     |
-| CloudFormation  | 🎯     |
+| IAM             | ✅ |
+| EC2             | ✅ |
+| S3              | ✅ |
+| VPC             | ✅ |
+| Route Tables    | 🔄 |
+| Security Groups | 🔄 |
+| Load Balancer   | 🔄 |
+| Auto Scaling    | 🔄 |
+| CloudFormation  | 🎯 |
 
 ---
 
