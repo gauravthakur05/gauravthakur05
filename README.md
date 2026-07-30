@@ -237,12 +237,12 @@ I enjoy re-architecting side projects into serverless systems just to see how fa
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gauravthakur05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F111A&title_color=00C9A7&icon_color=00C9A7&text_color=c9d1d9&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=gauravthakur05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F111A&title_color=00C9A7&icon_color=00C9A7&text_color=c9d1d9&cache_seconds=86400" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravthakur05&theme=tokyonight&hide_border=true&background=0F111A&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" />
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravthakur05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F111A&title_color=00C9A7&text_color=c9d1d9&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gauravthakur05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F111A&title_color=00C9A7&text_color=c9d1d9&cache_seconds=86400" />
 <img height="165" src="https://github-profile-trophy.vercel.app/?username=gauravthakur05&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=10" />
 
 <br/><br/>
