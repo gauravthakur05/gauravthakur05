@@ -403,10 +403,6 @@ Modern parking management platform enabling real-time slot availability, vehicle
 
 ### 🌟 Thanks for Visiting!
 
-*"Great software is built through curiosity, consistency, and collaboration."*
-
-Always open to discussions about **Software Engineering, Cloud Computing, DevOps, and Full-Stack Development**.
-
-⭐ If you like my work, consider giving a star to my repositories.
+If you like my work, consider giving a star to my repositories.
 
 </div>
