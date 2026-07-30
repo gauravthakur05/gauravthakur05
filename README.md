@@ -5,7 +5,7 @@
 <div align="center">
 
 # **𝙂𝙖𝙪𝙧𝙖𝙫 𝙏𝙝𝙖𝙠𝙪𝙧**
-### Cloud Engineer | Full-Stack Developer
+### 𝗖𝗹𝗼𝘂𝗱 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 | 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
 
 <br/>
 
