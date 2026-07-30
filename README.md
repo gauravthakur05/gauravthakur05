@@ -1,484 +1,267 @@
-<!-- ========================================================= -->
-<!--                     PREMIUM HERO SECTION                   -->
-<!-- ========================================================= -->
+<!-- =========================
+        PREMIUM HEADER
+========================= -->
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,25:0B1F3A,55:2B1055,100:0EA5E9&text=Gaurav%20Thakur&fontSize=52&fontAlignY=38&fontColor=FFFFFF&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Cloud%20Enthusiast&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050014,30:12002F,60:3A006F,100:00D4FF&text=Gaurav%20Thakur&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Cloud%20Enthusiast%20|%20DevOps%20Learner&descAlignY=60"/>
 </p>
-
-<h1 align="center">
-Hi 👋 I'm Gaurav Thakur
-</h1>
-
-<h3 align="center">
-Building scalable web applications • Exploring Cloud • Solving DSA • Always Learning
-</h3>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full+Stack+Developer;Cloud+Computing+Enthusiast;Backend+Developer;DevOps+Learner;Building+Production+Ready+Projects"/>
-
-</p>
-
----
-
-<p align="center">
-
-<a href="https://portfolioo-self-zeta.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Now-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-</a>
-
-<a href="https://linkedin.com/in/megaurav7">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-<a href="mailto:megaurav402815@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-<a href="https://github.com/gauravthakur05">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=gauravthakur05&style=for-the-badge&color=0e75b6"/>
-
-<img src="https://img.shields.io/github/followers/gauravthakur05?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/gauravthakur05?style=for-the-badge&logo=github"/>
-
-</p>
-
----
 
 # 💫 About Me
 
-<img align="right" width="320" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Focus&align=center&titleAlign=center&lineCount=4&line1=Full+Stack;React,Node.js,MongoDB;&line2=Cloud;AWS,Azure;&line3=Programming;C++,Java,Python;&line4=DevOps;Docker,Git;"/>
+<table>
+<tr>
 
-### 👋 Hello!
+<td width="60%" valign="top">
 
-I'm **Gaurav Thakur**, a **B.Tech Computer Science Engineering student** passionate about designing scalable applications and continuously improving my software engineering skills.
+### 👋 Hey, I'm Gaurav!
 
-I enjoy combining **problem-solving**, **backend development**, and **cloud technologies** to build practical projects that solve real-world problems.
+I'm a **B.Tech Computer Science student** passionate about building modern applications and exploring **Cloud Computing & DevOps**.
 
-### 🔹 Quick Highlights
+I enjoy turning ideas into **real-world projects**, solving **DSA problems**, and continuously learning technologies that help me become a better developer.
 
-- 🎓 B.Tech Computer Science Engineering Student
-- 💻 Full Stack Web Developer
-- ☁️ Learning AWS Cloud & Azure
-- 🐳 Exploring Docker & DevOps
-- 🧠 Strong interest in Data Structures & Algorithms
-- 🚀 Building real-world portfolio projects
-- 🌱 Continuously learning modern backend technologies
-- 🤝 Interested in Open Source Collaboration
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=800&color=00D4FF&width=480&lines=Full+Stack+Developer+%F0%9F%92%BB;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;DSA+Problem+Solver+%F0%9F%A7%A0;Building+Real+World+Projects+%F0%9F%9A%80;Always+Learning+New+Technologies+%E2%9C%A8"/>
+
+<br><br>
+
+💻 **Development** — Full Stack Development  
+☁️ **Cloud** — AWS & Azure  
+🐳 **DevOps** — Docker & CI/CD  
+🧠 **Problem Solving** — Data Structures & Algorithms  
+🚀 **Building** — Real World Projects  
+🏆 **Certification** — Oracle Certified  
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+<br>
+
+### ⚡ Code • Cloud • Create • Deploy
+
+> *Turning ideas into code and code into real-world solutions.*
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-00D4FF?style=for-the-badge&logo=react&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cloud-AWS%20%26%20Azure-8B5CF6?style=for-the-badge&logo=icloud&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DevOps-Learning-FF0080?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DSA-Problem%20Solver-00C853?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+<a href="mailto:megaurav402815@gmail.com">
+<img src="https://img.shields.io/badge/📧%20Email%20Me-181717?style=for-the-badge"/>
+</a>
+
+<a href="https://portfolioo-self-zeta.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Explore%20My%20Portfolio-181717?style=for-the-badge"/>
+</a>
+
+</p>
 
 ---
 
-## 🎯 Current Focus
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/megaurav7">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolioo-self-zeta.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:megaurav402815@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/me_gaurav_7">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/megaurav8zo6/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,react,nodejs,express,mongodb,mysql,git,github,docker,linux,aws,azure,vscode,postman&perline=10"/>
+
+</p>
+
+---
+
+# 🚀 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws"/>
+
+<img src="https://img.shields.io/badge/Azure-DevOps-0078D4?style=for-the-badge&logo=azuredevops"/>
+
+<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker"/>
+
+<img src="https://img.shields.io/badge/Azure-Learning-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/System%20Design-In%20Progress-8B5CF6?style=for-the-badge"/>
+
+</p>
+
+---
+
+# ☁️ AWS Journey
+
+| Service         | Status |
+| --------------- | ------ |
+| IAM             | ✅      |
+| EC2             | ✅      |
+| S3              | ✅      |
+| VPC             | ✅      |
+| Route Tables    | 🔄     |
+| Security Groups | 🔄     |
+| Load Balancer   | 🔄     |
+| Auto Scaling    | 🔄     |
+| CloudFormation  | 🎯     |
+
+---
+
+# 🧠 DSA Progress
 
 ```text
-🚀 Building Production Ready MERN Applications
+██████████████░░░░░░░░░░░░░░ 55%
 
-☁️ Learning AWS Cloud Architecture
-
-🐳 Exploring Docker & CI/CD
-
-📚 Strengthening DSA & Problem Solving
-
-⚙️ Improving Backend Development
-
-🌍 Preparing for Software Engineering Roles
+✅ Arrays
+✅ Strings
+✅ Linked List
+✅ Stack
+✅ Queue
+✅ Trees
+🔄 Graph
+🔄 Dynamic Programming
 ```
 
 ---
-
-## 💼 Career Objective
-
-> Passionate about developing scalable software solutions and continuously learning modern technologies. Currently preparing for Software Engineering opportunities while strengthening my expertise in Full Stack Development, Cloud Computing, Backend Engineering, and Data Structures & Algorithms.
-
----
-<!-- ========================================================= -->
-<!--                    ENGINEERING TOOLKIT                    -->
-<!-- ========================================================= -->
-
-# 💻 Engineering Toolkit
-
-> Technologies I use to design, build, deploy, and maintain modern software applications.
-
----
-
-## 👨‍💻 Programming Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript"/>
-
-</p>
-
----
-
-## 🎨 Frontend Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-
-</p>
-
----
-
-## ⚙️ Backend Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
-</p>
-
----
-
-## 🗄️ Database
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
-</p>
-
----
-
-## ☁️ Cloud Computing
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,azure"/>
-
-</p>
-
----
-
-## 🚀 DevOps & Containers
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,linux"/>
-
-</p>
-
----
-
-## 🔧 Version Control
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github"/>
-
-</p>
-
----
-
-## 🛠 Development Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,postman"/>
-
-</p>
-
----
-
-## 📚 Computer Science Fundamentals
-
-| Domain | Status |
-|---------|:------:|
-| Data Structures & Algorithms | ✅ |
-| Object-Oriented Programming | ✅ |
-| DBMS | ✅ |
-| Operating Systems | 📖 |
-| Computer Networks | 📖 |
-| System Design Basics | 📖 |
-
----
-
-## ☁️ Cloud Learning Roadmap
-
-| AWS Services | Progress |
-|--------------|:-------:|
-| IAM | ✅ |
-| EC2 | ✅ |
-| S3 | ✅ |
-| VPC | ✅ |
-| Route Tables | 🔄 |
-| Security Groups | 🔄 |
-| Load Balancer | 🔄 |
-| Auto Scaling | 🔄 |
-| CloudFormation | 📖 |
-| Lambda | 📖 |
-| API Gateway | 📖 |
-| DynamoDB | 📖 |
-
----
-
-## 🚀 Current Learning
-
-- Cloud Architecture (AWS)
-- Azure Fundamentals
-- Docker & Containers
-- CI/CD Pipelines
-- Backend Development
-- System Design
-- Advanced Graph Algorithms
-- Dynamic Programming
-
----
-
-## ⚡ Development Workflow
-
-```text
-Idea
-   │
-   ▼
-Research
-   │
-   ▼
-Design
-   │
-   ▼
-Development
-   │
-   ▼
-Testing
-   │
-   ▼
-Deployment
-   │
-   ▼
-Continuous Learning
-```
-
----
-
-## 🎯 Areas of Interest
-
-- Full Stack Development
-- Backend Engineering
-- Cloud Computing
-- DevOps
-- REST API Development
-- Software Architecture
-- Distributed Systems
-- Open Source
-
----
-
-<!-- ========================================================= -->
-<!--                    FEATURED PROJECTS                      -->
-<!-- ========================================================= -->
 
 # 🚀 Featured Projects
 
-> A selection of projects showcasing my expertise in full-stack development, cloud technologies, and problem-solving.
-
----
-
 <table>
-
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-## 🔗 URL Shortener
+### 🔗 URL Shortener
 
-A scalable URL shortening platform that converts long URLs into secure, shareable short links with fast redirection.
+A modern URL shortening application that converts long URLs into short and shareable links.
 
-### ✨ Highlights
+Features
 
-- RESTful API Architecture
-- URL Analytics Ready
-- MongoDB Integration
-- Fast Redirection
-- Clean Responsive UI
+* Shorten Long URLs
+* Fast URL Redirection
+* Simple & Clean Interface
+* Full Stack Application
 
-### 🛠 Tech Stack
+**Tech Stack**
 
-`React` `Node.js` `Express` `MongoDB`
-
-<br>
-
-<a href="https://github.com/gauravthakur05/snipp-url-shortener">
-
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-
-</a>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-## ☁️ CloudOps Lab
+### ☁️ CloudOps Lab
 
-A hands-on cloud engineering repository documenting practical implementations of AWS services and DevOps concepts.
+Hands-on AWS projects covering:
 
-### ✨ Highlights
+* EC2
+* IAM
+* S3
+* VPC
+* Linux
+* Docker
+* Azure DevOps
 
-- IAM
-- EC2
-- S3
-- VPC
-- Docker
-- Linux Administration
+**Tech Stack**
 
-### 🛠 Tech Stack
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 
-`AWS` `Docker` `Linux`
+</td>
 
-<br>
+<td width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/In%20Progress-orange?style=for-the-badge"/>
+### 🚗 AlgoPark
+
+Smart Parking Solution
+
+Features
+
+* DSA Based
+* Smart Allocation
+* Efficient Parking
+* Real-time Concept
+
+**Tech Stack**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus)
 
 </td>
 
 </tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🚗 AlgoPark
-
-A DSA-driven parking management system focused on optimized vehicle allocation and efficient parking operations.
-
-### ✨ Highlights
-
-- Queue Based Allocation
-- Optimized Parking Logic
-- Object-Oriented Design
-- Efficient Memory Usage
-
-### 🛠 Tech Stack
-
-`C++` `DSA`
-
-<br>
-
-<img src="https://img.shields.io/badge/Academic%20Project-blue?style=for-the-badge"/>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🎫 Serverless Event Ticket Platform
-
-A cloud-native ticket booking platform built entirely on AWS serverless services.
-
-### ✨ Highlights
-
-- API Gateway
-- AWS Lambda
-- DynamoDB
-- SQS
-- SNS
-- SES
-
-### 🛠 Tech Stack
-
-`AWS` `Lambda` `DynamoDB`
-
-<br>
-
-<img src="https://img.shields.io/badge/Currently%20Building-success?style=for-the-badge"/>
-
-</td>
-
-</tr>
-
 </table>
 
 ---
 
-# 📂 Project Highlights
-
-| Project | Domain | Status |
-|----------|--------|:------:|
-| URL Shortener | Full Stack Development | ✅ |
-| CloudOps Lab | Cloud Computing | 🚀 |
-| AlgoPark | Data Structures & Algorithms | ✅ |
-| Serverless Ticket Platform | AWS Serverless | 🚧 |
-
----
-
-# 🏗 Engineering Principles
-
-- Clean & Maintainable Code
-- Scalable Architecture
-- REST API Design
-- Performance Optimization
-- Secure Development Practices
-- Responsive UI/UX
-- Modular Project Structure
-- Git-Based Development Workflow
-
----
-
-# 📌 Currently Building
-
-- ☁️ AWS Serverless Event Ticket Platform
-- 🌐 Production-ready MERN Applications
-- 📚 Advanced DSA Solutions
-- 🐳 Dockerized Backend Services
-- ⚙️ CI/CD Learning Projects
-
----
-<!-- ========================================================= -->
-<!--                  GITHUB ANALYTICS DASHBOARD               -->
-<!-- ========================================================= -->
-
-# 📊 GitHub Analytics
-
-> Consistency, collaboration, and continuous learning reflected through GitHub activity.
-
----
+# 🌐 Portfolio
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gauravthakur05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<a href="https://portfolioo-self-zeta.vercel.app/">
 
-<img height="170" src="https://streak-stats.demolab.com?user=gauravthakur05&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/🌍%20Visit%20My%20Portfolio-2563EB?style=for-the-badge"/>
+
+</a>
 
 </p>
 
 ---
 
-## 💻 Most Used Languages
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravthakur05&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=gauravthakur05&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gauravthakur05&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6"/>
-
-</p>
-
----
-
-## 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -488,17 +271,13 @@ A cloud-native ticket booking platform built entirely on AWS serverless services
 
 ---
 
-## 📋 Profile Summary
+# 📊 Profile Summary
 
 <p align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gauravthakur05&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gauravthakur05&theme=tokyonight"/>
 
 </p>
-
----
-
-## 📊 Development Metrics
 
 <p align="center">
 
@@ -507,6 +286,10 @@ A cloud-native ticket booking platform built entirely on AWS serverless services
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gauravthakur05&theme=tokyonight"/>
 
 </p>
+
+---
+
+# ⚡ Coding Activity
 
 <p align="center">
 
@@ -518,7 +301,57 @@ A cloud-native ticket booking platform built entirely on AWS serverless services
 
 ---
 
-## 🐍 Contribution Snake
+# 📌 Current Focus
+
+```text
+🚀 Full Stack Development
+☁️ AWS Cloud
+🐳 Docker
+⚙️ DevOps
+📚 DSA
+💡 Open Source
+```
+
+---
+
+# 🎯 2026 Goals
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Complete-500%2B%20DSA%20Problems-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AWS-Certified-232F3E?style=for-the-badge&logo=amazonaws"/>
+
+<img src="https://img.shields.io/badge/Azure-Certification-0078D4?style=for-the-badge&logo=microsoftazure"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github"/>
+
+</p>
+
+* 🚀 Build Production Ready MERN Applications
+* ☁️ Become AWS Certified
+* ⚙️ Master Docker & CI/CD
+* 🌍 Contribute to Open Source
+* 📚 Solve 500+ DSA Problems
+* 💼 Secure a Software Engineering Internship
+
+---
+
+# 🏅 Certifications
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle"/>
+
+<img src="https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazonaws"/>
+
+<img src="https://img.shields.io/badge/Azure-Learning-0078D4?style=for-the-badge&logo=microsoftazure"/>
+
+</p>
+
+---
+
+# 📈 Contribution Snake
 
 <p align="center">
 
@@ -528,282 +361,44 @@ A cloud-native ticket booking platform built entirely on AWS serverless services
 
 ---
 
-## 📌 GitHub Snapshot
+# 💬 Developer Quote
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=gauravthakur05&style=for-the-badge&color=0e75b6"/>
-
-<img src="https://img.shields.io/github/followers/gauravthakur05?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/gauravthakur05?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/last-commit/gauravthakur05/snipp-url-shortener?style=for-the-badge"/>
+> **"First, solve the problem. Then, write the code."**
+> — *John Johnson*
 
 </p>
 
 ---
 
-## ⚡ Development Philosophy
+# 🎉 Fun Facts
 
-```text
-Learn → Build → Test → Deploy → Improve → Repeat
-```
-
-> *"Consistency beats intensity. Small improvements every day lead to exceptional engineering over time."*
-
----
-
-<!-- ========================================================= -->
-<!--            CERTIFICATIONS • ACHIEVEMENTS • GOALS          -->
-<!-- ========================================================= -->
-
-# 🏅 Certifications
-
-> Continuous learning is a core part of my engineering journey.
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Journey-232F3E?style=for-the-badge&logo=amazonaws"/>
-
-<img src="https://img.shields.io/badge/Microsoft-Azure%20Learning-0078D4?style=for-the-badge&logo=microsoftazure"/>
-
-</p>
+* 💻 I enjoy turning ideas into real applications.
+* ☁️ Cloud Computing fascinates me.
+* 📚 I love learning new technologies every week.
+* 🚀 Consistency is my superpower.
+* 🎵 Coding with music is my favorite combo.
 
 ---
-
-# 🏆 Achievements
-
-- 🧠 Solved **300+ DSA problems** across coding platforms.
-- ☁️ Built multiple hands-on **AWS cloud projects**.
-- 💻 Developed full-stack web applications using the **MERN Stack**.
-- 🚀 Built projects focused on real-world software engineering concepts.
-- 📚 Continuously learning Backend Development, Cloud Computing, and DevOps.
-- 🎯 Preparing for Software Engineering & Product-Based Company roles.
-
----
-
-# 👨‍💻 Coding Profiles
-
-<p align="center">
-
-<a href="https://www.geeksforgeeks.org/user/megaurav8zo6/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://github.com/gauravthakur05">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
-> *More coding platform profiles (LeetCode, Codeforces, HackerRank) can be added as you become active there.*
-
----
-
-# 🌱 Open Source Journey
-
-I believe that contributing to open source is one of the best ways to improve software engineering skills.
-
-### Areas I'm interested in contributing to
-
-- Full Stack Applications
-- Backend APIs
-- Cloud Projects
-- DevOps Automation
-- Documentation
-- Beginner-Friendly Issues
-
----
-
-# 🎯 2026 Goals
-
-| Goal | Status |
-|------|:------:|
-| Solve 500+ DSA Problems | 🚀 |
-| Build 5 Production-Level Projects | 🚀 |
-| Master MERN Stack | 🔄 |
-| Learn AWS Serverless | 🔄 |
-| Learn Docker & CI/CD | 🔄 |
-| Contribute to Open Source | 📖 |
-| Earn AWS Certification | 🎯 |
-| Secure a Software Engineering Role | 🎯 |
-
----
-
-# 📚 Learning Roadmap
-
-### Backend
-
-- Node.js
-- Express
-- Authentication
-- REST APIs
-- Database Design
-
-### Cloud
-
-- AWS IAM
-- EC2
-- S3
-- VPC
-- Lambda
-- API Gateway
-- DynamoDB
-
-### DevOps
-
-- Docker
-- GitHub Actions
-- CI/CD
-- Linux
-
-### Computer Science
-
-- Advanced Graph Algorithms
-- Dynamic Programming
-- System Design
-- Operating Systems
-- Computer Networks
-
----
-
-# 📅 Engineering Journey
-
-```text
-Programming Fundamentals
-            │
-            ▼
-Data Structures & Algorithms
-            │
-            ▼
-Full Stack Development
-            │
-            ▼
-Cloud Computing
-            │
-            ▼
-DevOps
-            │
-            ▼
-System Design
-            │
-            ▼
-Software Engineering
-```
-
----
-
-# 💡 What Drives Me
-
-- Building scalable software
-- Solving real-world problems
-- Writing clean, maintainable code
-- Learning modern technologies
-- Continuous improvement
-- Collaborating with developers
-- Exploring cloud-native applications
-
----
-
-<!-- ========================================================= -->
-<!--              CONNECT • PHILOSOPHY • FOOTER                -->
-<!-- ========================================================= -->
 
 # 🤝 Let's Connect
 
-> I'm always open to collaborating on exciting projects, discussing software engineering, cloud technologies, or simply connecting with fellow developers.
-
 <p align="center">
 
-<a href="https://portfolioo-self-zeta.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="mailto:megaurav402815@gmail.com">
+<img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/megaurav7">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:megaurav402815@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Send%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/gauravthakur05">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<a href="https://gauravthakur05.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
-
----
-
-# 📌 Current Focus
-
-```text
-🚀 Building Production Ready MERN Applications
-
-☁️ Learning AWS Cloud Architecture
-
-⚙️ Exploring Backend Engineering
-
-🐳 Docker & DevOps
-
-📚 Solving Advanced DSA Problems
-
-💼 Preparing for Software Engineering Roles
-```
-
----
-
-# 💭 Engineering Philosophy
-
-> **Great software isn't just about writing code—it's about solving problems with simplicity, scalability, and reliability.**
-
-I believe in:
-
-- Writing clean and maintainable code
-- Building projects that solve real problems
-- Learning by building
-- Continuous improvement
-- Sharing knowledge with the community
-- Quality over quantity
-
----
-
-# ⚡ Beyond Coding
-
-- ☕ Coffee + Coding = Productive Day
-- 🎵 Music helps me stay focused while coding
-- 🌍 Passionate about Cloud Computing
-- 🚀 Love building practical software projects
-- 📚 Always learning something new
-- 💡 Curious about how large-scale systems work
-
----
-
-# 📖 Favorite Quote
-
-<p align="center">
-
-> **"Programs must be written for people to read, and only incidentally for machines to execute."**
->
-> **— Harold Abelson**
-
-</p>
-
----
-
-# 🌟 Open to
-
-- Software Engineering Internships
-- Open Source Contributions
-- Full Stack Development
-- Backend Engineering
-- Cloud Computing Projects
-- Technical Collaboration
-- Hackathons
-- Learning Opportunities
 
 ---
 
@@ -811,11 +406,13 @@ I believe in:
 
 <p align="center">
 
-### Thanks for stopping by!
+<img src="https://komarev.com/ghpvc/?username=gauravthakur05&label=Visitors&color=0e75b6&style=flat"/>
 
-If you like my work or find my projects interesting, consider giving a ⭐ to the repositories you enjoy.
+</p>
 
-Let's build scalable software and keep learning together. 🚀
+<p align="center">
+
+### ⭐ If you like my work, consider following me and starring my repositories!
 
 </p>
 
@@ -823,17 +420,6 @@ Let's build scalable software and keep learning together. 🚀
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050816,35:1E3A8A,70:4338CA,100:06B6D4"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
 
 </p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=gauravthakur05&label=Profile%20Views&style=flat-square&color=2563EB"/>
-
-</p>
-
-<!-- ========================================================= -->
-<!--                        END OF README                      -->
-<!-- ========================================================= -->
-
