@@ -34,21 +34,21 @@
 <!-- ABOUT ME -->
 <!-- ============================================================ -->
 
-## 🧭 About Me
+## About Me
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🎓 Education**
+**Education**
 Bachelor of Technology — Computer Science & Engineering
 Lovely Professional University, Phagwara, Punjab
 *Aug 2023 – Present*
 
-**🎯 Career Objective**
+**Career Objective**
 Building a career at the intersection of cloud infrastructure and full-stack engineering — aiming for product-based companies where I can design systems that scale.
 
-**📚 Currently Learning**
+**Currently Learning**
 Advanced cloud architecture patterns and applying Generative AI within developer tooling and workflows.
 
 </td>
@@ -57,13 +57,13 @@ Advanced cloud architecture patterns and applying Generative AI within developer
 **🔭 Focus Areas**
 Cloud Computing · Serverless Architecture · Full-Stack Development
 
-**🌱 Interests**
+**Interests**
 Distributed systems, DevOps automation, and developer productivity tools
 
-**🤝 Open Source**
+**Open Source**
 Interested in contributing to cloud tooling and developer-experience projects
 
-**💡 Fun Fact**
+**Fun Fact**
 I enjoy re-architecting side projects into serverless systems just to see how far I can push cost efficiency.
 
 </td>
@@ -76,7 +76,7 @@ I enjoy re-architecting side projects into serverless systems just to see how fa
 <!-- TECH STACK -->
 <!-- ============================================================ -->
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <details open>
 <summary><b>Programming Languages</b></summary>
@@ -236,7 +236,7 @@ I enjoy re-architecting side projects into serverless systems just to see how fa
 <!-- GITHUB ANALYTICS -->
 <!-- ============================================================ -->
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -264,7 +264,7 @@ I enjoy re-architecting side projects into serverless systems just to see how fa
 <!-- ============================================================ -->
 <!-- FEATURED PROJECTS -->
 <!-- ============================================================ -->
-## 🚀 Featured Projects
+## Featured Projects
 
 <table width="100%">
 <tr>
