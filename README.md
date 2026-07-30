@@ -13,7 +13,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=650&lines=Cloud+Computing+%7C+AWS+%2B+Azure;Full-Stack+Developer+%7C+React+%C2%B7+Node.js+%C2%B7+PostgreSQL;Building+Scalable+Serverless+Systems;B.Tech+CSE+%40+Lovely+Professional+University" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravthakur05)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gauravthakur05)
@@ -237,17 +237,17 @@ I enjoy re-architecting side projects into serverless systems just to see how fa
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gauravthakur05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F111A&title_color=00C9A7&icon_color=00C9A7&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gauravthakur05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F111A&title_color=00C9A7&icon_color=00C9A7&text_color=c9d1d9&cache_seconds=86400" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravthakur05&theme=tokyonight&hide_border=true&background=0F111A&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" />
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravthakur05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F111A&title_color=00C9A7&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravthakur05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F111A&title_color=00C9A7&text_color=c9d1d9&cache_seconds=86400" />
 <img height="165" src="https://github-profile-trophy.vercel.app/?username=gauravthakur05&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=10" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravthakur05&theme=tokyo-night&hide_border=true&bg_color=0F111A&color=00C9A7&line=00C9A7&point=ffffff" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravthakur05&theme=tokyo-night&hide_border=true&bg_color=0F111A&color=00C9A7&line=00C9A7&point=ffffff&cache_seconds=86400" width="95%" />
 
 <br/><br/>
 
