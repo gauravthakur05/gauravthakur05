@@ -41,7 +41,7 @@
 <td width="50%" valign="top">
 
 **Education**
-Bachelor of Technology — Computer Science & Engineering
+Bachelor of Technology | Computer Science & Engineering
 Lovely Professional University, Phagwara, Punjab
 *Aug 2023 – Present*
 
