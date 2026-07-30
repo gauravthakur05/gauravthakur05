@@ -11,7 +11,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&repeat=true&random=false&width=1050&height=60&lines=Full-Stack+Developer+%7C+Cloud+Engineer;AWS+%7C+Azure+%7C+DevOps+Enthusiast;Building+Scalable+Web+%26+Serverless+Applications;React+%7C+Node.js+%7C+PostgreSQL+%7C+Docker;B.Tech+CSE+%40+Lovely+Professional+University"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&repeat=true&random=false&width=1200&height=70&lines=Full-Stack+Developer+%7C+Cloud+Engineer;AWS+%7C+Azure+%7C+DevOps+Enthusiast;Building+Scalable+Web+%26+Serverless+Applications;React+%7C+Node.js+%7C+PostgreSQL+%7C+Docker;B.Tech+CSE+%40+Lovely+Professional+University"
     alt="Typing SVG"
   />
 </p>
