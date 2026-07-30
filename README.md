@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/📍_Location-Madhubani,_Bihar,_India-2C5364?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/🎓_Status-B.Tech_CSE_Undergraduate-0F2027?style=for-the-badge" />
 
 <br/>
