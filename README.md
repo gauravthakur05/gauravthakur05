@@ -13,11 +13,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=650&lines=Cloud+Computing+%7C+AWS+%2B+Azure;Full-Stack+Developer+%7C+React+%C2%B7+Node.js+%C2%B7+PostgreSQL;Building+Scalable+Serverless+Systems;B.Tech+CSE+%40+Lovely+Professional+University" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/📍_Location-Madhubani,_Bihar,_India-2C5364?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🎓_Status-B.Tech_CSE_Undergraduate-0F2027?style=for-the-badge" />
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravthakur05)
