@@ -1,425 +1,362 @@
-<!-- =========================
-        PREMIUM HEADER
-========================= -->
+<!-- ============================================================ -->
+<!-- HERO SECTION -->
+<!-- ============================================================ -->
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050014,30:12002F,60:3A006F,100:00D4FF&text=Gaurav%20Thakur&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Cloud%20Enthusiast%20|%20DevOps%20Learner&descAlignY=60"/>
-</p>
+<div align="center">
 
-# 💫 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=200&section=header&text=Gaurav%20Thakur&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%26%20Full-Stack%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<a href="https://linkedin.com/in/gauravthakur05">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=650&lines=Cloud+Computing+%7C+AWS+%2B+Azure;Full-Stack+Developer+%7C+React+%C2%B7+Node.js+%C2%B7+PostgreSQL;Building+Scalable+Serverless+Systems;B.Tech+CSE+%40+Lovely+Professional+University" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📍_Location-Madhubani,_Bihar,_India-2C5364?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎓_Status-B.Tech_CSE_Undergraduate-0F2027?style=for-the-badge" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravthakur05)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gauravthakur05)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:megaurva402815@gmail.com)
+
+</div>
+
+<br/>
+
+> Computer Science undergraduate specializing in **Cloud Computing** (AWS, Azure) with hands-on experience building **full-stack applications** and **REST APIs**, and deploying **scalable, serverless cloud architectures**. Focused on writing clean code, solving real infrastructure problems, and shipping systems that hold up under load.
+
+<br/>
+
+<!-- ============================================================ -->
+<!-- ABOUT ME -->
+<!-- ============================================================ -->
+
+## 🧭 About Me
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="60%" valign="top">
+**🎓 Education**
+Bachelor of Technology — Computer Science & Engineering
+Lovely Professional University, Phagwara, Punjab
+*Aug 2023 – Present*
 
-### 👋 Hey, I'm Gaurav!
+**🎯 Career Objective**
+Building a career at the intersection of cloud infrastructure and full-stack engineering — aiming for product-based companies where I can design systems that scale.
 
-I'm a **B.Tech Computer Science student** passionate about building modern applications and exploring **Cloud Computing & DevOps**.
-
-I enjoy turning ideas into **real-world projects**, solving **DSA problems**, and continuously learning technologies that help me become a better developer.
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=800&color=00D4FF&width=480&lines=Full+Stack+Developer+%F0%9F%92%BB;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;DSA+Problem+Solver+%F0%9F%A7%A0;Building+Real+World+Projects+%F0%9F%9A%80;Always+Learning+New+Technologies+%E2%9C%A8"/>
-
-<br><br>
-
-💻 **Development** — Full Stack Development  
-☁️ **Cloud** — AWS & Azure  
-🐳 **DevOps** — Docker & CI/CD  
-🧠 **Problem Solving** — Data Structures & Algorithms  
-🚀 **Building** — Real World Projects  
-🏆 **Certification** — Oracle Certified  
+**📚 Currently Learning**
+Advanced cloud architecture patterns and applying Generative AI within developer tooling and workflows.
 
 </td>
+<td width="50%" valign="top">
 
-<td width="40%" align="center" valign="middle">
+**🔭 Focus Areas**
+Cloud Computing · Serverless Architecture · Full-Stack Development
 
-<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+**🌱 Interests**
+Distributed systems, DevOps automation, and developer productivity tools
 
-<br>
+**🤝 Open Source**
+Interested in contributing to cloud tooling and developer-experience projects
 
-### ⚡ Code • Cloud • Create • Deploy
-
-> *Turning ideas into code and code into real-world solutions.*
+**💡 Fun Fact**
+I enjoy re-architecting side projects into serverless systems just to see how far I can push cost efficiency.
 
 </td>
-
 </tr>
 </table>
 
-<p align="center">
+<br/>
 
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-00D4FF?style=for-the-badge&logo=react&logoColor=white"/>
+<!-- ============================================================ -->
+<!-- TECH STACK -->
+<!-- ============================================================ -->
 
-<img src="https://img.shields.io/badge/Cloud-AWS%20%26%20Azure-8B5CF6?style=for-the-badge&logo=icloud&logoColor=white"/>
+## 🛠️ Tech Stack
 
-<img src="https://img.shields.io/badge/DevOps-Learning-FF0080?style=for-the-badge&logo=docker&logoColor=white"/>
+<details open>
+<summary><b>Programming Languages</b></summary>
+<br/>
 
-<img src="https://img.shields.io/badge/DSA-Problem%20Solver-00C853?style=for-the-badge&logo=leetcode&logoColor=white"/>
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-</p>
+</details>
 
-<p align="center">
+<details open>
+<summary><b>Frontend Development</b></summary>
+<br/>
 
-<a href="mailto:megaurav402815@gmail.com">
-<img src="https://img.shields.io/badge/📧%20Email%20Me-181717?style=for-the-badge"/>
-</a>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-<a href="https://portfolioo-self-zeta.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Explore%20My%20Portfolio-181717?style=for-the-badge"/>
-</a>
+</details>
 
-</p>
+<details open>
+<summary><b>Backend Development</b></summary>
+<br/>
 
----
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=fastapi&logoColor=white)
 
-# 🌍 Connect With Me
+</details>
 
-<p align="center">
+<details open>
+<summary><b>Database</b></summary>
+<br/>
 
-<a href="https://linkedin.com/in/megaurav7">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 
-<a href="https://portfolioo-self-zeta.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+</details>
 
-<a href="mailto:megaurav402815@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<details open>
+<summary><b>Cloud Computing</b></summary>
+<br/>
 
-<a href="https://instagram.com/me_gaurav_7">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)
 
-<a href="https://www.geeksforgeeks.org/user/megaurav8zo6/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
+</details>
 
-</p>
+<details open>
+<summary><b>DevOps</b></summary>
+<br/>
 
----
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=flat-square&logo=githubactions&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
 
-# 💻 Tech Stack
+</details>
 
-<p align="center">
+<details open>
+<summary><b>Version Control</b></summary>
+<br/>
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,react,nodejs,express,mongodb,mysql,git,github,docker,linux,aws,azure,vscode,postman&perline=10"/>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-</p>
+</details>
 
----
+<details open>
+<summary><b>API Development</b></summary>
+<br/>
 
-# 🚀 Currently Learning
+![REST](https://img.shields.io/badge/REST_API_Design-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![API Gateway](https://img.shields.io/badge/AWS_API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)
 
-<p align="center">
+</details>
 
-<img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws"/>
+<details open>
+<summary><b>Authentication & Security</b></summary>
+<br/>
 
-<img src="https://img.shields.io/badge/Azure-DevOps-0078D4?style=for-the-badge&logo=azuredevops"/>
+![Cognito](https://img.shields.io/badge/AWS_Cognito-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![RBAC](https://img.shields.io/badge/Role--Based_Access_Control-2C5364?style=flat-square)
 
-<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker"/>
+</details>
 
-<img src="https://img.shields.io/badge/Azure-Learning-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<details open>
+<summary><b>Tools & IDEs</b></summary>
+<br/>
 
-<img src="https://img.shields.io/badge/System%20Design-In%20Progress-8B5CF6?style=for-the-badge"/>
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-</p>
+</details>
 
----
+<details open>
+<summary><b>Operating Systems</b></summary>
+<br/>
 
-# ☁️ AWS Journey
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-| Service         | Status |
-| --------------- | ------ |
-| IAM             | ✅      |
-| EC2             | ✅      |
-| S3              | ✅      |
-| VPC             | ✅      |
-| Route Tables    | 🔄     |
-| Security Groups | 🔄     |
-| Load Balancer   | 🔄     |
-| Auto Scaling    | 🔄     |
-| CloudFormation  | 🎯     |
+</details>
 
----
+<details open>
+<summary><b>Testing & Debugging</b></summary>
+<br/>
 
-# 🧠 DSA Progress
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![X-Ray](https://img.shields.io/badge/AWS_X--Ray-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
 
-```text
-██████████████░░░░░░░░░░░░░░ 55%
+</details>
 
-✅ Arrays
-✅ Strings
-✅ Linked List
-✅ Stack
-✅ Queue
-✅ Trees
-🔄 Graph
-🔄 Dynamic Programming
-```
+<details open>
+<summary><b>Deployment</b></summary>
+<br/>
 
----
+![AWS Lambda](https://img.shields.io/badge/Serverless_(Lambda)-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![EC2 Auto Scaling](https://img.shields.io/badge/EC2_Auto_Scaling-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform_IaC-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
-# 🚀 Featured Projects
+</details>
 
-<table>
+<details open>
+<summary><b>CS Fundamentals</b></summary>
+<br/>
+
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-2C5364?style=flat-square)
+![OOP](https://img.shields.io/badge/Object--Oriented_Programming-2C5364?style=flat-square)
+![STL](https://img.shields.io/badge/C%2B%2B_STL-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Currently Learning</b></summary>
+<br/>
+
+![GenAI](https://img.shields.io/badge/Generative_AI_in_DevTools-00C9A7?style=flat-square&logo=openai&logoColor=white)
+![Cloud Architecture](https://img.shields.io/badge/Advanced_Cloud_Architecture-2C5364?style=flat-square&logo=amazonaws&logoColor=white)
+
+</details>
+
+<br/>
+
+<!-- ============================================================ -->
+<!-- GITHUB ANALYTICS -->
+<!-- ============================================================ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gauravthakur05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F111A&title_color=00C9A7&icon_color=00C9A7&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravthakur05&theme=tokyonight&hide_border=true&background=0F111A&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" />
+
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravthakur05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F111A&title_color=00C9A7&text_color=c9d1d9" />
+<img height="165" src="https://github-profile-trophy.vercel.app/?username=gauravthakur05&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=10" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravthakur05&theme=tokyo-night&hide_border=true&bg_color=0F111A&color=00C9A7&line=00C9A7&point=ffffff" width="95%" />
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=gauravthakur05&style=for-the-badge&color=2C5364&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/gauravthakur05?style=for-the-badge&color=2C5364&label=FOLLOWERS)
+
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!-- FEATURED PROJECTS -->
+<!-- ============================================================ -->
+
+## 🚀 Featured Projects
+
+<table width="100%">
 <tr>
+<td width="50%" valign="top">
 
-<td width="33%" valign="top">
+### 🤖 AI-Powered Developer Collaboration Platform
 
-### 🔗 URL Shortener
+Full-stack platform integrating AI-powered code review, automated bug detection, and commit message generation into the dev workflow — with real-time team chat, Kanban boards, sprint planning, and role-based access control.
 
-A modern URL shortening application that converts long URLs into short and shareable links.
+**Tech Stack:**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-Features
-
-* Shorten Long URLs
-* Fast URL Redirection
-* Simple & Clean Interface
-* Full Stack Application
-
-**Tech Stack**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gauravthakur05/devcollab-ai)
 
 </td>
+<td width="50%" valign="top">
 
-<td width="33%" valign="top">
+### 🎟️ AWS Serverless Ticket Booking Platform
 
-### ☁️ CloudOps Lab
+Serverless event-ticketing system with Cognito-based auth, seat selection, and payment simulation. Event-driven workflow (SQS, SNS, SES, EventBridge) for booking confirmations and QR-ticket delivery, with full CI/CD via Terraform and GitHub Actions.
 
-Hands-on AWS projects covering:
+**Tech Stack:**
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Cognito](https://img.shields.io/badge/Cognito-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
-* EC2
-* IAM
-* S3
-* VPC
-* Linux
-* Docker
-* Azure DevOps
-
-**Tech Stack**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gauravthakur05/aws-serverless-ticket-booking)
 
 </td>
-
-<td width="33%" valign="top">
-
-### 🚗 AlgoPark
-
-Smart Parking Solution
-
-Features
-
-* DSA Based
-* Smart Allocation
-* Efficient Parking
-* Real-time Concept
-
-**Tech Stack**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus)
-
-</td>
-
 </tr>
 </table>
 
----
+<br/>
 
-# 🌐 Portfolio
+<!-- ============================================================ -->
+<!-- TRAINING & HANDS-ON EXPERIENCE -->
+<!-- ============================================================ -->
 
-<p align="center">
+## 💼 Training & Hands-On Experience
 
-<a href="https://portfolioo-self-zeta.vercel.app/">
+| Program | Provider | Duration | Highlights |
+|---|---|---|---|
+| **AWS Auto Scaling Web Application** | AWS, Linux | Jan 2025 – Feb 2025 | Built a scalable web app using EC2, Elastic Load Balancer & Auto Scaling Groups; improved performance by **30%** while reducing operational costs |
+| **C++ OOP & DSA Summer Training** | CSE Pathshala | Jun 2025 – Jul 2025 | Applied OOP design principles and advanced DSA/STL to solve problems efficiently, strengthening core analytical skills |
 
-<img src="https://img.shields.io/badge/🌍%20Visit%20My%20Portfolio-2563EB?style=for-the-badge"/>
+<br/>
 
-</a>
+<!-- ============================================================ -->
+<!-- CERTIFICATIONS -->
+<!-- ============================================================ -->
 
-</p>
+## 📜 Certifications
 
----
+| Certification | Issuing Organization | Date |
+|---|---|---|
+| **Oracle Certified Generative AI Professional** | Oracle | Jul 2025 |
+| **Introduction to Internet of Things** | NPTEL | Apr 2025 |
 
-# 🔥 GitHub Streak
+<br/>
 
-<p align="center">
+<!-- ============================================================ -->
+<!-- CONNECT WITH ME -->
+<!-- ============================================================ -->
 
-<img src="https://streak-stats.demolab.com?user=gauravthakur05&theme=tokyonight&hide_border=true"/>
+## 📫 Connect With Me
 
-</p>
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravthakur05)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gauravthakur05)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:megaurva402815@gmail.com)
 
-# 📈 Contribution Graph
+</div>
 
-<p align="center">
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravthakur05&theme=tokyo-night&hide_border=true"/>
+<!-- ============================================================ -->
+<!-- FOOTER -->
+<!-- ============================================================ -->
 
-</p>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=120&section=footer" width="100%"/>
 
-# 📊 Profile Summary
+**Thanks for stopping by — always open to collaborating on cloud & full-stack projects.** 🤝
 
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gauravthakur05&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gauravthakur05&theme=tokyonight"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gauravthakur05&theme=tokyonight"/>
-
-</p>
-
----
-
-# ⚡ Coding Activity
-
-<p align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gauravthakur05&theme=tokyonight"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gauravthakur05&theme=tokyonight&utcOffset=5.5"/>
-
-</p>
-
----
-
-# 📌 Current Focus
-
-```text
-🚀 Full Stack Development
-☁️ AWS Cloud
-🐳 Docker
-⚙️ DevOps
-📚 DSA
-💡 Open Source
-```
-
----
-
-# 🎯 2026 Goals
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Complete-500%2B%20DSA%20Problems-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AWS-Certified-232F3E?style=for-the-badge&logo=amazonaws"/>
-
-<img src="https://img.shields.io/badge/Azure-Certification-0078D4?style=for-the-badge&logo=microsoftazure"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github"/>
-
-</p>
-
-* 🚀 Build Production Ready MERN Applications
-* ☁️ Become AWS Certified
-* ⚙️ Master Docker & CI/CD
-* 🌍 Contribute to Open Source
-* 📚 Solve 500+ DSA Problems
-* 💼 Secure a Software Engineering Internship
-
----
-
-# 🏅 Certifications
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle"/>
-
-<img src="https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazonaws"/>
-
-<img src="https://img.shields.io/badge/Azure-Learning-0078D4?style=for-the-badge&logo=microsoftazure"/>
-
-</p>
-
----
-
-# 📈 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 💬 Developer Quote
-
-<p align="center">
-
-> **"First, solve the problem. Then, write the code."**
-> — *John Johnson*
-
-</p>
-
----
-
-# 🎉 Fun Facts
-
-* 💻 I enjoy turning ideas into real applications.
-* ☁️ Cloud Computing fascinates me.
-* 📚 I love learning new technologies every week.
-* 🚀 Consistency is my superpower.
-* 🎵 Coding with music is my favorite combo.
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="mailto:megaurav402815@gmail.com">
-<img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/megaurav7">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://gauravthakur05.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# ❤️ Thanks for Visiting
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=gauravthakur05&label=Visitors&color=0e75b6&style=flat"/>
-
-</p>
-
-<p align="center">
-
-### ⭐ If you like my work, consider following me and starring my repositories!
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
-
-</p>
+</div>
