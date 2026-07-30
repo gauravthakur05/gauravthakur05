@@ -9,9 +9,12 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/gauravthakur05">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=650&lines=Cloud+Computing+%7C+AWS+%2B+Azure;Full-Stack+Developer+%7C+React+%C2%B7+Node.js+%C2%B7+PostgreSQL;Building+Scalable+Serverless+Systems;B.Tech+CSE+%40+Lovely+Professional+University" alt="Typing SVG" />
-</a>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&repeat=true&random=false&width=1050&height=60&lines=Full-Stack+Developer+%7C+Cloud+Engineer;AWS+%7C+Azure+%7C+DevOps+Enthusiast;Building+Scalable+Web+%26+Serverless+Applications;React+%7C+Node.js+%7C+PostgreSQL+%7C+Docker;B.Tech+CSE+%40+Lovely+Professional+University"
+    alt="Typing SVG"
+  />
+</p>
 
 <br/><br/>
 
