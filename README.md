@@ -4,6 +4,8 @@
 
 <div align="center">
 
+# Gaurav Thakur
+### Cloud & Full-Stack Engineer
 
 <br/>
 
@@ -13,7 +15,7 @@
 
 <br/><br/>
 
-
+<img src="https://img.shields.io/badge/📍_Location-Madhubani,_Bihar,_India-2C5364?style=for-the-badge" />
 <img src="https://img.shields.io/badge/🎓_Status-B.Tech_CSE_Undergraduate-0F2027?style=for-the-badge" />
 
 <br/>
@@ -354,8 +356,10 @@ Serverless event-ticketing system with Cognito-based auth, seat selection, and p
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=120&section=footer" width="100%"/>
+<br/>
 
-**Thanks for stopping by — always open to collaborating on cloud & full-stack projects.** 🤝
+**⭐ Thanks for stopping by — always open to collaborating on cloud & full-stack projects. 🤝**
+
+<sub>Built with ☕ and a lot of `git commit`s</sub>
 
 </div>
