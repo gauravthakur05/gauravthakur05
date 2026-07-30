@@ -397,10 +397,16 @@ Modern parking management platform enabling real-time slot availability, vehicle
 
 <div align="center">
 
-<br/>
+---
 
-**⭐ Thanks for stopping by — always open to collaborating on cloud & full-stack projects. 🤝**
 
-<sub>Built with ☕ and a lot of `git commit`s</sub>
+
+### 🌟 Thanks for Visiting!
+
+*"Great software is built through curiosity, consistency, and collaboration."*
+
+Always open to discussions about **Software Engineering, Cloud Computing, DevOps, and Full-Stack Development**.
+
+⭐ If you like my work, consider giving a star to my repositories.
 
 </div>
