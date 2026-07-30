@@ -349,12 +349,12 @@ Modern parking management platform enabling real-time slot availability, vehicle
 |---|---|---|---|
 | **AWS Auto Scaling Web Application** | AWS, Linux | Jan 2025 – Feb 2025 | Designed and deployed a scalable web application using EC2, Elastic Load Balancer, and Auto Scaling Groups, improving performance while optimizing infrastructure costs. |
 | **C++ OOP & DSA Summer Training** | CSE Pathshala | Jun 2025 – Jul 2025 | Built strong foundations in Object-Oriented Programming, STL, and advanced Data Structures & Algorithms through hands-on coding challenges. |
+| **AWS Community Day** | Amazon Web Services | 2025 | Participated in technical sessions on cloud architecture, serverless computing, DevOps, AI/ML, and industry best practices while networking with AWS experts and developers. |
 | **AWS Cloud Hands-On Labs** | AWS Academy | 2025 – Present | Gaining practical experience with EC2, IAM, VPC, S3, Lambda, DynamoDB, CloudFront, Auto Scaling, Load Balancing, and serverless architectures through real-world lab exercises. |
 | **Cloud Computing & Linux Administration** | Self-Learning Lab | 2025 – Present | Deploying and managing Linux servers, virtual machines, networking, storage, and cloud infrastructure using Oracle VM and Rocky Linux. |
 | **DevOps Hands-On Practice** | Self-Learning | 2025 – Present | Building CI/CD pipelines, Docker containers, GitHub Actions workflows, and Infrastructure as Code while learning modern DevOps practices. |
 
 <br/>
-
 <!-- ============================================================ -->
 <!-- CERTIFICATIONS -->
 <!-- ============================================================ -->
