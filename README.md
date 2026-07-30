@@ -4,7 +4,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=200&section=header&text=Gaurav%20Thakur&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%26%20Full-Stack%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
