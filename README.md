@@ -282,6 +282,7 @@ Full-stack platform integrating AI-powered code review, automated bug detection,
 [![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gauravthakur05/devcollab-ai)
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🎟️ AWS Serverless Ticket Booking Platform
@@ -296,6 +297,31 @@ Serverless event-ticketing system with Cognito-based auth, seat selection, and p
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
 [![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gauravthakur05/aws-serverless-ticket-booking)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 Smart URL Shortener Platform
+
+Production-ready URL shortening platform featuring custom aliases, QR code generation, click analytics, link expiration, and secure JWT authentication. Built with a scalable REST API architecture and responsive frontend for efficient link management.
+
+**Tech Stack:**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gauravthakur05/snipp-url-shortener)
+
+</td>
+
+<td width="50%" valign="top">
+
+<!-- Reserved for your next flagship project -->
 
 </td>
 </tr>
