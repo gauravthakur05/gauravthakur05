@@ -345,10 +345,13 @@ Modern parking management platform enabling real-time slot availability, vehicle
 
 ## 💼 Training & Hands-On Experience
 
-| Program | Provider | Duration | Highlights |
+| Program | Organization | Duration | Highlights |
 |---|---|---|---|
-| **AWS Auto Scaling Web Application** | AWS, Linux | Jan 2025 – Feb 2025 | Built a scalable web app using EC2, Elastic Load Balancer & Auto Scaling Groups; improved performance by **30%** while reducing operational costs |
-| **C++ OOP & DSA Summer Training** | CSE Pathshala | Jun 2025 – Jul 2025 | Applied OOP design principles and advanced DSA/STL to solve problems efficiently, strengthening core analytical skills |
+| **AWS Auto Scaling Web Application** | AWS, Linux | Jan 2025 – Feb 2025 | Designed and deployed a scalable web application using EC2, Elastic Load Balancer, and Auto Scaling Groups, improving performance while optimizing infrastructure costs. |
+| **C++ OOP & DSA Summer Training** | CSE Pathshala | Jun 2025 – Jul 2025 | Built strong foundations in Object-Oriented Programming, STL, and advanced Data Structures & Algorithms through hands-on coding challenges. |
+| **AWS Cloud Hands-On Labs** | AWS Academy | 2025 – Present | Gaining practical experience with EC2, IAM, VPC, S3, Lambda, DynamoDB, CloudFront, Auto Scaling, Load Balancing, and serverless architectures through real-world lab exercises. |
+| **Cloud Computing & Linux Administration** | Self-Learning Lab | 2025 – Present | Deploying and managing Linux servers, virtual machines, networking, storage, and cloud infrastructure using Oracle VM and Rocky Linux. |
+| **DevOps Hands-On Practice** | Self-Learning | 2025 – Present | Building CI/CD pipelines, Docker containers, GitHub Actions workflows, and Infrastructure as Code while learning modern DevOps practices. |
 
 <br/>
 
@@ -362,6 +365,11 @@ Modern parking management platform enabling real-time slot availability, vehicle
 |---|---|---|
 | **Oracle Certified Generative AI Professional** | Oracle | Jul 2025 |
 | **Introduction to Internet of Things** | NPTEL | Apr 2025 |
+| **Computational Theory: Language Principle & Finite Automata** | Infosys Springboard | 2025 |
+| **Introduction to AI Fundamentals** | Coursera | 2025 |
+| **ChatGPT Made Easy: AI Essentials for Beginners** | Udemy | 2025 |
+| **Computer Programming** | IamNeo | 2025 |
+| **C++ Programming** | IamNeo | 2025 |
 
 <br/>
 
