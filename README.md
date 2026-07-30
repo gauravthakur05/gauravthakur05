@@ -46,7 +46,7 @@ Lovely Professional University, Phagwara, Punjab
 *Aug 2023 – Present*
 
 **Career Objective**
-Building a career at the intersection of cloud infrastructure and full-stack engineering — aiming for product-based companies where I can design systems that scale.
+Building a career at the intersection of cloud infrastructure and full-stack engineering aiming for product-based companies where I can design systems that scale.
 
 **Currently Learning**
 Advanced cloud architecture patterns and applying Generative AI within developer tooling and workflows.
@@ -54,7 +54,7 @@ Advanced cloud architecture patterns and applying Generative AI within developer
 </td>
 <td width="50%" valign="top">
 
-**🔭 Focus Areas**
+**Focus Areas**
 Cloud Computing · Serverless Architecture · Full-Stack Development
 
 **Interests**
