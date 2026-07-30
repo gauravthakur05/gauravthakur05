@@ -261,7 +261,6 @@ I enjoy re-architecting side projects into serverless systems just to see how fa
 <!-- ============================================================ -->
 <!-- FEATURED PROJECTS -->
 <!-- ============================================================ -->
-
 ## 🚀 Featured Projects
 
 <table width="100%">
@@ -287,7 +286,7 @@ Full-stack platform integrating AI-powered code review, automated bug detection,
 
 ### 🎟️ AWS Serverless Ticket Booking Platform
 
-Serverless event-ticketing system with Cognito-based auth, seat selection, and payment simulation. Event-driven workflow (SQS, SNS, SES, EventBridge) for booking confirmations and QR-ticket delivery, with full CI/CD via Terraform and GitHub Actions.
+Serverless event-ticketing system with Cognito authentication, seat selection, payment simulation, and event-driven workflows using SQS, SNS, SES, and EventBridge. Infrastructure managed with Terraform and GitHub Actions CI/CD.
 
 **Tech Stack:**
 ![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
@@ -306,7 +305,7 @@ Serverless event-ticketing system with Cognito-based auth, seat selection, and p
 
 ### 🔗 Smart URL Shortener Platform
 
-Production-ready URL shortening platform featuring custom aliases, QR code generation, click analytics, link expiration, and secure JWT authentication. Built with a scalable REST API architecture and responsive frontend for efficient link management.
+Production-ready URL shortening platform with custom aliases, QR code generation, click analytics, link expiration, and JWT-based authentication. Built with scalable REST APIs and a responsive frontend for secure and efficient link management.
 
 **Tech Stack:**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -321,7 +320,18 @@ Production-ready URL shortening platform featuring custom aliases, QR code gener
 
 <td width="50%" valign="top">
 
-<!-- Reserved for your next flagship project -->
+### 🚗 ParkWise – Smart Parking Management System
+
+Modern parking management platform enabling real-time slot availability, vehicle entry/exit tracking, automated billing, digital receipts, and admin analytics. Designed with scalable architecture and secure role-based access for parking operators and users.
+
+**Tech Stack:**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gauravthakur05/parkwise)
 
 </td>
 </tr>
