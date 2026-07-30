@@ -236,46 +236,29 @@ I enjoy re-architecting side projects into serverless systems just to see how fa
 <!-- ============================================================ -->
 <!-- GITHUB ANALYTICS -->
 <!-- ============================================================ -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gauravthakur05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F111A&title_color=00C9A7&icon_color=00C9A7&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=gauravthakur05&theme=tokyonight&hide_border=true&background=0F111A&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" />
-
-</div>
-
-<br>
+## GitHub Analytics
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravthakur05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F111A&title_color=00C9A7&text_color=c9d1d9&langs_count=8" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=gauravthakur05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F111A&title_color=00C9A7&icon_color=00C9A7&text_color=c9d1d9&cache_seconds=86400" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravthakur05&theme=tokyonight&hide_border=true&background=0F111A&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" />
 
-<img width="58%" src="https://github-profile-trophy.vercel.app/?username=gauravthakur05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=4" />
+<br/>
 
-</div>
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gauravthakur05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F111A&title_color=00C9A7&text_color=c9d1d9&cache_seconds=86400" />
 
-<br>
+<br/><br/>
 
-<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravthakur05&theme=tokyo-night&hide_border=true&bg_color=0F111A&color=00C9A7&line=00C9A7&point=ffffff&cache_seconds=86400" width="95%" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=gauravthakur05&theme=tokyo-night&hide_border=true&bg_color=0F111A&color=00C9A7&line=00C9A7&point=FFFFFF" />
+<br/><br/>
 
-</div>
-
-<br>
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=gauravthakur05&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS)
-![](https://img.shields.io/github/followers/gauravthakur05?style=for-the-badge&logo=github&color=8A2BE2&label=FOLLOWERS)
-![](https://img.shields.io/github/stars/gauravthakur05?style=for-the-badge&logo=github&color=8A2BE2&label=TOTAL+STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=gauravthakur05&style=for-the-badge&color=2C5364&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/gauravthakur05?style=for-the-badge&color=2C5364&label=FOLLOWERS)
 
 </div>
 
-<br>
+<br/>
 
 <!-- ============================================================ -->
 <!-- FEATURED PROJECTS -->
